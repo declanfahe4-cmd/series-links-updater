@@ -1,11 +1,3 @@
-!pip install requests beautifulsoup4 pandas --quiet
-!apt-get update -y
-!apt-get install -y libatk1.0-0 libatk-bridge2.0-0 libcups2 libxkbcommon0 \
-libxcomposite1 libxrandr2 libgbm1 libpangocairo-1.0-0 libasound2 \
-libpango-1.0-0 libgtk-3-0
-!pip install playwright nest_asyncio pandas --quiet
-!playwright install chromium
-
 import asyncio
 import requests
 import re
@@ -15,10 +7,8 @@ from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 import nest_asyncio
 
-# تهيئة البيئة
 nest_asyncio.apply()
 
-# 1. قائمة الروابط (المقالات)
 post_links = [
 "https://w.shadwo.pro/albaplayer/esref-ruya-s01e01",
 "https://w.shadwo.pro/albaplayer/esref-ruya-s01e02",
@@ -200,102 +190,93 @@ post_links = [
 "https://w.shadwo.pro/albaplayer/halef-koklerin-cagrisi-2025-s01e21",
 "https://w.shadwo.pro/albaplayer/halef-koklerin-cagrisi-2025-s01e22",
 "https://w.shadwo.pro/albaplayer/halef-koklerin-cagrisi-2025-s01e23",
-"https://w.shadwo.pro/albaplayer/halef-koklerin-cagrisi-2025-s01e24",
-               ]
+"https://w.shadwo.pro/albaplayer/halef-koklerin-cagrisi-2025-s01e24",    # ... باقي الروابط
+]
 
 async def get_direct_video_url(browser, embed_url):
-    """استخراج رابط m3u8 من رابط الـ embed"""
     page = await browser.new_page()
     video_url = None
 
     async def handle_response(response):
         nonlocal video_url
-        if ".m3u8" in response.url:
+        if ".m3u8" in response.url and "master" in response.url:  # اختياري: فلتر أفضل
             video_url = response.url
 
     page.on("response", handle_response)
-    try:
-        await page.goto(embed_url, wait_until="networkidle", timeout=20000)
-        await asyncio.sleep(6)
-    except Exception:
-        pass
 
-    await page.close()
+    try:
+        await page.goto(embed_url, wait_until="networkidle", timeout=30000)
+        await asyncio.sleep(8)  # زد الانتظار شوية
+    except Exception as e:
+        print(f"خطأ أثناء الذهاب للصفحة: {e}")
+    finally:
+        await page.close()
+
     return video_url
 
 async def main():
-    final_results_list = [] # لملف CSV
-    json_data = {}          # لملف JSON
+    json_data = {}
+    final_results_list = []
 
-    print("--- بدء عملية الاستخراج والتحويل ---")
+    print("--- بدء عملية الاستخراج ---")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
+        browser = await p.chromium.launch(
+            headless=True,
+            args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
+        )
 
         for post_url in post_links:
             try:
-                # استخراج اسم الحلقة من الرابط (المعرف)
-                # سيأخذ آخر جزء من الرابط: guller-ve-gunahlar-2025-s01e01
                 episode_id = post_url.split('/')[-1]
+                print(f"\n[*] معالجة: {episode_id}")
 
-                print(f"\n[*] جاري معالجة: {episode_id}")
+                resp = requests.get(post_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=12)
+                resp.raise_for_status()
+                soup = BeautifulSoup(resp.text, "html.parser")
 
-                response = requests.get(post_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-                soup = BeautifulSoup(response.text, "html.parser")
+                title = soup.find("title").text.strip() if soup.find("title") else episode_id
 
-                # 1. استخراج العنوان العربي
-                title_tag = soup.find("title")
-                arabic_title = title_tag.text.strip() if title_tag else "بدون عنوان"
-
-                # 2. البحث عن روابط cdnplus
-                cdnplus_links = re.findall(r"https://cdnplus\.cyou/embed-[\w\d]+\.html", response.text)
-
-                if not cdnplus_links:
-                    print(f"   [-] لم يتم العثور على مشغل.")
+                cdn_links = re.findall(r"https://cdnplus\.cyou/embed-[\w\d]+\.html", resp.text)
+                if not cdn_links:
+                    print("   [-] لا يوجد مشغل")
                     continue
 
-                # نأخذ أول رابط متاح فقط أو نكرر للكل (هنا سنأخذ الأول لضمان هيكلة JSON)
-                embed_link = list(set(cdnplus_links))[0]
+                embed = cdn_links[0]  # أول واحد
+                print(f"   [>] جاري استخراج من: {embed}")
 
-                print(f"   [>] استخراج الرابط المباشر...")
-                direct_video = await get_direct_video_url(browser, embed_link)
+                m3u8 = await get_direct_video_url(browser, embed)
 
-                if direct_video:
-                    # إضافة للـ JSON (المفتاح هو معرف الحلقة)
-                    json_data[episode_id] = {
-                        "title": arabic_title,
-                        "url": direct_video
-                    }
-
-                    # إضافة للقائمة (ملف CSV)
+                if m3u8:
+                    json_data[episode_id] = {"title": title, "url": m3u8}
                     final_results_list.append({
                         "ID": episode_id,
-                        "Title": arabic_title,
-                        "Direct URL": direct_video,
-                        "Original Post": post_url
+                        "Title": title,
+                        "URL": m3u8,
+                        "Post": post_url
                     })
-                    print(f"   [+] تم بنجاح.")
+                    print("   [+] نجح")
                 else:
-                    print(f"   [x] لم يتم العثور على رابط m3u8.")
+                    print("   [x] ما لقيناش m3u8")
 
             except Exception as e:
-                print(f"   [!] خطأ في {post_url}: {e}")
+                print(f"   [!] خطأ: {e}")
 
         await browser.close()
 
-    # --- حفظ النتائج ---
-
-    # 1. حفظ CSV
-    if final_results_list:
-        df = pd.DataFrame(final_results_list)
-        df.to_csv("final_video_results.csv", index=False, encoding='utf-16')
-        print(f"\n[تم] حفظ ملف CSV.")
-
-    # 2. حفظ JSON (بشكل مرتب للعربيه)
+    # حفظ
     if json_data:
         with open("data.json", "w", encoding="utf-8") as f:
-            json.dump(json_data, f, ensure_ascii=False, indent=4)
-        print(f"[تم] حفظ ملف JSON باسم data.json.")
+            json.dump(json_data, f, ensure_ascii=False, indent=2)
+        print("[تم] data.json")
+
+    if final_results_list:
+        pd.DataFrame(final_results_list).to_csv("results.csv", index=False, encoding="utf-8-sig")
+        print("[تم] results.csv")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except Exception as e:
+        print(f"خطأ عام في التشغيل: {e}")
+        raise
