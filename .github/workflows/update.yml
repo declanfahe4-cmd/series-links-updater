@@ -1,36 +1,28 @@
-name: Update links every 4 hours
-
-on:
-  schedule:
-    - cron: '0 */4 * * *'   # كل 4 ساعات (0، 4، 8، 12، 16، 20 بتوقيت UTC)
-  workflow_dispatch:        # عشان تقدر تشغله يدوي برضو
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Download the code
-        uses: actions/checkout@v4
-
       - name: Install Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.11'   # أو 3.12 لو عايز
 
-      - name: Install libraries
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          playwright install --with-deps chromium
+          pip install requests beautifulsoup4 pandas playwright nest_asyncio
 
-      - name: Run the scraper
-        run: python scraper.py
-
-      - name: Commit the new json if changed
+      - name: Install Playwright system dependencies + Chromium
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          sudo apt-get update
+          npx playwright install-deps    # ده بيثبت كل اللي محتاجه تلقائيًا (أفضل من سرد يدوي)
+          npx playwright install chromium --with-deps   # يثبت chromium + أي تبعيات ناقصة
+
+      - name: Run the scraper script
+        run: python scraper.py          # غيّر الاسم لو الملف مش اسمه scraper.py
+
+      - name: Commit and push updated JSON if changed
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
           git add data.json
-          git commit -m "Update links $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git commit -m "Automated update: new m3u8 links $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
