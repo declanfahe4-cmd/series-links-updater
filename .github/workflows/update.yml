@@ -1,0 +1,36 @@
+name: Update links every 4 hours
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # كل 4 ساعات (0، 4، 8، 12، 16، 20 بتوقيت UTC)
+  workflow_dispatch:        # عشان تقدر تشغله يدوي برضو
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download the code
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install libraries
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run the scraper
+        run: python scraper.py
+
+      - name: Commit the new json if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data.json
+          git commit -m "Update links $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git push
