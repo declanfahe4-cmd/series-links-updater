@@ -1,28 +1,47 @@
-      - name: Install Python
+name: Update m3u8 links every 4 hours
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'     # كل 4 ساعات: 00:00 ، 04:00 ، 08:00 ، 12:00 ، 16:00 ، 20:00 بتوقيت UTC
+
+  workflow_dispatch:          # يسمح لك تشغله يدويًا من تبويب Actions
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: تحميل المستودع
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # مهم عشان نقدر نعمل commit لاحقًا
+
+      - name: تثبيت Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'   # أو 3.12 لو عايز
+          python-version: '3.11'
 
-      - name: Install Python dependencies
+      - name: تثبيت المكتبات البايثون
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas playwright nest_asyncio
 
-      - name: Install Playwright system dependencies + Chromium
+      - name: تثبيت تبعيات النظام + متصفح chromium لـ Playwright
         run: |
           sudo apt-get update
-          npx playwright install-deps    # ده بيثبت كل اللي محتاجه تلقائيًا (أفضل من سرد يدوي)
-          npx playwright install chromium --with-deps   # يثبت chromium + أي تبعيات ناقصة
+          npx playwright install-deps
+          npx playwright install chromium --with-deps
 
-      - name: Run the scraper script
-        run: python scraper.py          # غيّر الاسم لو الملف مش اسمه scraper.py
+      - name: تشغيل السكريبت
+        run: python scraper.py     # ← غيّر scraper.py إلى الاسم الحقيقي لملفك إذا كان مختلف (مثلاً main.py أو extract.py)
 
-      - name: Commit and push updated JSON if changed
+      - name: حفظ التغييرات ورفعها (commit + push) إذا حصل تغيير
         run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
           git add data.json
-          git commit -m "Automated update: new m3u8 links $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git commit -m "تحديث تلقائي لروابط m3u8 - $(date +'%Y-%m-%d %H:%M UTC')" || echo "ما في تغييرات جديدة"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
