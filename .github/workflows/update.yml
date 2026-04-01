@@ -9,13 +9,13 @@ jobs:
   update-links:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # ← مهم جدًا عشان يقدر يرفع التغييرات
+      contents: write
 
     steps:
       - name: تحميل المستودع
         uses: actions/checkout@v4
         with:
-          ref: main               # ← غيّر "main" لو اسم الفرع عندك مختلف (master أو غيره)
+          ref: main
           fetch-depth: 0
 
       - name: تثبيت Python
@@ -28,14 +28,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas playwright nest_asyncio
 
+      # ✅ التعديل هنا
       - name: تثبيت Playwright + Chromium
         run: |
-          sudo apt-get update
-          npx playwright install-deps
-          npx playwright install chromium --with-deps
+          playwright install --with-deps
 
       - name: تشغيل السكريبت
-        run: python scraper.py     # ← غيّر scraper.py لاسم ملفك الحقيقي (مثلاً get_links.py)
+        run: python scraper.py
 
       - name: حفظ ورفع data.json
         run: |
@@ -44,7 +43,7 @@ jobs:
           
           git add data.json
           git commit -m "تحديث تلقائي لروابط m3u8 - $(date +'%Y-%m-%d %H:%M UTC')" || echo "لا تغييرات جديدة"
-          git push origin HEAD:main     # ← نفس الفرع اللي فوق
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← عشان يخفي التحذير اللي بعثته
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
