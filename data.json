@@ -1,946 +1,1034 @@
 {
+  "esref-ruya-s01e01": {
+    "title": "مسلسل حلم اشرف الحلقة 1",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/13f2xcukbiii_,l,n,h,x,.urlset/master.m3u8?t=rhuzQSz5OL4GedPSE7PFvdJyL7KgM45rv4EL-Csb9nw&s=1780066420&e=43200&v=204324740&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e02": {
+    "title": "مسلسل حلم اشرف الحلقة 2",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/8zvqc4g2nmdc_,l,n,h,x,.urlset/master.m3u8?t=s6gbzf1xhSa_Ct4mBXuJCEiWRcjivcvlV6e2WZ0gryo&s=1780066431&e=43200&v=204324873&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e03": {
+    "title": "مسلسل حلم اشرف الحلقة 3",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/33124q91ka3k_,l,n,h,x,.urlset/master.m3u8?t=GejHvBgIIPdNBy2tfd5QY5TjTrpfTb10v16zAnNPIQs&s=1780066442&e=43200&v=204325008&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e04": {
+    "title": "مسلسل حلم اشرف الحلقة 4",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/rvligyyqmfjg_,l,n,h,x,.urlset/master.m3u8?t=ApBHZplKVdfMuYFmPVcnz68CjWd77s8NXion2xwydMo&s=1780066453&e=43200&v=204325129&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e05": {
+    "title": "مسلسل حلم اشرف الحلقة 5",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/cwnw5r15aqxk_,l,n,h,x,.urlset/master.m3u8?t=8UUcrKTg2-Pn1ASlSRllLre-arWIoq_AHlq_vQOC2KE&s=1780066463&e=43200&v=204325251&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e06": {
+    "title": "مسلسل حلم اشرف الحلقة 6",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/lfgbhaskty41_,l,n,h,x,.urlset/master.m3u8?t=YzsXYhgHS7I9pkUYbXr37vQT4aFbRrC2nxgK_LLewNM&s=1780066474&e=43200&v=204325360&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e07": {
+    "title": "مسلسل حلم اشرف الحلقة 7",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/dq5jkaz9p8ni_,l,n,h,x,.urlset/master.m3u8?t=jbq4njYPVKJAcudsqqXdFFEXDMaovS_h0XKlmVIuOYo&s=1780066484&e=43200&v=204325479&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e08": {
+    "title": "مسلسل حلم اشرف الحلقة 8",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/w099uwlozr55_,l,n,h,x,.urlset/master.m3u8?t=07Y5Mu11Zhqw4lvtom4ZcXs22lThXkRs3tSLdGj1_qg&s=1780066495&e=43200&v=204325623&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e09": {
+    "title": "مسلسل حلم اشرف الحلقة 9",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/5e9jymy3mfab_,l,n,h,x,.urlset/master.m3u8?t=8A3wkgtNMMcoEFMKZposUqDO1lmDuN9-G37Erlz3_Lk&s=1780066508&e=43200&v=204325801&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e10": {
+    "title": "مسلسل حلم اشرف الحلقة 10",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/e1lsxtjt98sk_,l,n,h,x,.urlset/master.m3u8?t=sSqRc-KvWMJ2UbCdvfLqRVNmZd7Pg8EZfTFpE1n5OCc&s=1780066518&e=43200&v=204325935&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e11": {
+    "title": "مسلسل حلم اشرف الحلقة 11",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/4nttefh3rqw2_,l,n,h,x,.urlset/master.m3u8?t=6IcKaNsENms0ICfgCB3TVITSRI0koy8s8-u4FPHw3ec&s=1780066529&e=43200&v=204326050&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e12": {
+    "title": "مسلسل حلم اشرف الحلقة 12",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/pnintiw4bdd7_,l,n,h,x,.urlset/master.m3u8?t=_Qj293HhB1B_JLyOqUZFU9vnP95GGWAHEyacZ3AXUdM&s=1780066540&e=43200&v=204326173&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e13": {
+    "title": "مسلسل حلم اشرف الحلقة 13 – نهاية الموسم",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/8x2ah99wcf17_,l,n,h,x,.urlset/master.m3u8?t=2kzLhJ7bQh83Dhy3-Ive0CtBSFd_9M0Qs5qEasrLdCs&s=1780066550&e=43200&v=204326321&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e15": {
+    "title": "مسلسل حلم اشرف الحلقة 15",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/9e05vtfnkahe_,l,n,h,x,.urlset/master.m3u8?t=ID22QlfS9GAM0RNfIah7kx7IQVUxhWGuOHUFrSIuaJ8&s=1780066571&e=43200&v=204326543&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e16": {
+    "title": "مسلسل حلم اشرف الحلقة 16",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/mj7v4i8zxpqw_,l,n,h,x,.urlset/master.m3u8?t=4e4c69auZJUA9V5XTemGPRzSNv9OrzFCMKLr6cFllco&s=1780066581&e=43200&v=204326688&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e17": {
+    "title": "مسلسل حلم اشرف الحلقة 17",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/mr6bc14adswj_,l,n,h,x,.urlset/master.m3u8?t=-RCOt4It-s5nLZQaiNthPTlh2ag8lAeR3wjWGpD2I8U&s=1780066592&e=43200&v=204326822&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e18": {
+    "title": "مسلسل حلم اشرف الحلقة 18",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/dt7cwa0gh1a0_,l,n,h,x,.urlset/master.m3u8?t=mvWqxwZh8Mnr6jLEtn_IazAzsMieewyrGC1-H9UqNjo&s=1780066603&e=43200&v=204326945&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e19": {
+    "title": "مسلسل حلم اشرف الحلقة 19",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/x8chq2jy7hur_,l,n,h,x,.urlset/master.m3u8?t=XBVrVO5b-I2SorbNd0aXykt9b2ZIa8IPH3-ZjfoPXZs&s=1780066614&e=43200&v=204327075&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e20": {
+    "title": "مسلسل حلم اشرف الحلقة 20",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/lz16g5jk9h1h_,l,n,h,x,.urlset/master.m3u8?t=X-QTjgmmJSgAT3E-3MoOCK9dbxvsxn7EdFv-BWB1FfA&s=1780066625&e=43200&v=204327219&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e21": {
+    "title": "مسلسل حلم اشرف الحلقة 21",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/ck94b15s8ked_,l,n,h,x,.urlset/master.m3u8?t=Gpq4KmAa8ZyYOr7B94ek9lDHe1a3IhPbfE_XtNRzFW0&s=1780066636&e=43200&v=204327360&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e22": {
+    "title": "مسلسل حلم اشرف الحلقة 22",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/738qt8mqhc8y_,l,n,h,x,.urlset/master.m3u8?t=Co5jxlpXMywEoHjI2LEPnR_TTBDol8i4OaGIwDBv3l8&s=1780066647&e=43200&v=204327489&i=0.0&sp=0"
+  },
+  "esref-ruya-s01e23": {
+    "title": "مسلسل حلم اشرف الحلقة 23",
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/ndz19aausg6g_,l,n,h,x,.urlset/master.m3u8?t=eZSnHaGIC0EBR1Sdp424sNUzHSXKYVZIhvNzsbKc_8k&s=1780066658&e=43200&v=204327643&i=0.0&sp=0"
+  },
   "esref-ruya-s01e24": {
     "title": "مسلسل حلم اشرف الحلقة 24",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wvuqt4ld2250_,l,n,h,x,.urlset/master.m3u8?t=ckvmOLJLihxTXqfF8j3gNnNWsZEvEj-webmWPVE_m6w&s=1780054563&e=43200&v=204192733&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wvuqt4ld2250_,l,n,h,x,.urlset/master.m3u8?t=rStHD6oXxwdccWZaZzRrYVD9DY6oJ0Txim_5-XRWNcY&s=1780066669&e=43200&v=204327758&i=0.0&sp=0"
   },
   "esref-ruya-s01e25": {
     "title": "مسلسل حلم اشرف الحلقة 25",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/5byf95jsxhgx_,l,n,h,x,.urlset/master.m3u8?t=SQzaJQEmxSZ-sONkHiBoVy1J-l0wyLAFe8exA5bpBCA&s=1780054574&e=43200&v=204193607&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/5byf95jsxhgx_,l,n,h,x,.urlset/master.m3u8?t=CsoRNKHPtA4Rvt4bYi0sOlYR4F-NFKRqhX5BbmNntOM&s=1780066680&e=43200&v=204327891&i=0.0&sp=0"
   },
   "esref-ruya-s01e26": {
     "title": "مسلسل حلم اشرف الحلقة 26",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/06rvh9z8ldlu_,l,n,h,x,.urlset/master.m3u8?t=j4mt_KmE5jBaBFKS8SKSlVALBgK25LUgjNMnko2KwDc&s=1780054585&e=43200&v=204194010&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/06rvh9z8ldlu_,l,n,h,x,.urlset/master.m3u8?t=_rgCHJjQ8Wc7UuX04P5KhCHCB9PiSLc0i6IrJIbPCAY&s=1780066690&e=43200&v=204328012&i=0.0&sp=0"
   },
   "esref-ruya-s01e27": {
     "title": "مسلسل حلم اشرف الحلقة 27",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/z15hecybvndf_,l,n,h,x,.urlset/master.m3u8?t=v1Z5n3izG7byU-AhsegvjkXHwcZI0V94M6o3NQrciIs&s=1780054596&e=43200&v=204194248&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/z15hecybvndf_,l,n,h,x,.urlset/master.m3u8?t=ByO1upVJjBEKqO0fsH1kAgM65bmksu947JLt1-Nr--c&s=1780066708&e=43200&v=204328175&i=0.0&sp=0"
   },
   "esref-ruya-s01e28": {
     "title": "مسلسل حلم اشرف الحلقة 28",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/y17lxx1qdt2s_,l,n,h,x,.urlset/master.m3u8?t=k6Oy55DTb73iZvpiS7HoAVTTDkdaPkNPpKQ3eLyAXhI&s=1780054607&e=43200&v=204194447&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/y17lxx1qdt2s_,l,n,h,x,.urlset/master.m3u8?t=fQmiIkIEGSEOKbnqAc7yPhHFoEz1CmrZQ7a2ttzzojY&s=1780066719&e=43200&v=204328289&i=0.0&sp=0"
   },
   "esref-ruya-s01e29": {
     "title": "مسلسل حلم اشرف الحلقة 29",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/mx535kuacmv8_,l,n,h,x,.urlset/master.m3u8?t=l4l50bweIUH9SRj2nEXEGjtaerp2fyPbzY3U4IMtEPw&s=1780054617&e=43200&v=204194627&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/mx535kuacmv8_,l,n,h,x,.urlset/master.m3u8?t=Oq7UPwJkshrJ2FIsVrcjeeFxsURqwBRQ61WQfzP6pMQ&s=1780066729&e=43200&v=204328406&i=0.0&sp=0"
   },
   "esref-ruya-s01e30": {
     "title": "مسلسل حلم اشرف الحلقة 30",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/8bmrnnxmho5v_,l,n,h,x,.urlset/master.m3u8?t=s4SpHMZvNsqjkKsUkU0djNh99g9T7oacd3dMCTGkS3g&s=1780054628&e=43200&v=204194817&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/8bmrnnxmho5v_,l,n,h,x,.urlset/master.m3u8?t=Conp03hbySL_z1ayl9MkG1sgbr4o4kZLvU6l6isMurs&s=1780066740&e=43200&v=204328556&i=0.0&sp=0"
   },
   "esref-ruya-s01e31": {
     "title": "مسلسل حلم اشرف الحلقة 31",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/mgd93a8ht41n_,l,n,h,x,.urlset/master.m3u8?t=RhnA0Wlfn7sKaDAbu41gk_9A7txNbGTTW2MneQkM-5U&s=1780054642&e=43200&v=204195048&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/mgd93a8ht41n_,l,n,h,x,.urlset/master.m3u8?t=Dn0EcGUwwvtB1yw3VGGhkrllDg-CYXrZvu-3MnTRtbk&s=1780066751&e=43200&v=204328697&i=0.0&sp=0"
   },
   "esref-ruya-s01e32": {
     "title": "مسلسل حلم اشرف الحلقة 32",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/v393ppojfbja_,l,n,h,x,.urlset/master.m3u8?t=jWzGUOylgvey0v8o4eFIInKMLYCLuTBKi_4699u2nt4&s=1780054652&e=43200&v=204195260&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/v393ppojfbja_,l,n,h,x,.urlset/master.m3u8?t=tBfKzde0162mnHCdDG0_TpHjPFbaL6Tw1MzVtdy_lNs&s=1780066762&e=43200&v=204328830&i=0.0&sp=0"
   },
   "esref-ruya-s01e33": {
     "title": "مسلسل حلم اشرف الحلقة 33",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/yztf2406hdq6_,l,n,h,x,.urlset/master.m3u8?t=iETa8ckgfu7dngZ636DYS05v-WDwxBm17oD1Ac_-6O4&s=1780054663&e=43200&v=204195446&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/yztf2406hdq6_,l,n,h,x,.urlset/master.m3u8?t=Subi1_XzaOgy7JBZSxek8rnr9Fr2zYTzyKh9-hD2E_Y&s=1780066773&e=43200&v=204328957&i=0.0&sp=0"
   },
   "esref-ruya-s01e34": {
     "title": "مسلسل حلم اشرف الحلقة 34",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/6kl5t816hpx8_,l,n,h,x,.urlset/master.m3u8?t=FhvL6mR-mHHXRlpxwp8o9wtuZlc3KheG8gn9RnbSb6k&s=1780054674&e=43200&v=204195620&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/6kl5t816hpx8_,l,n,h,x,.urlset/master.m3u8?t=yx5rR1wVTLsUkSM4ty0jxAHg9ZBVoWSsUezKvB90HlM&s=1780066784&e=43200&v=204329082&i=0.0&sp=0"
   },
   "esref-ruya-s01e35": {
     "title": "مسلسل حلم اشرف الحلقة 35",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/5au6860ageut_,l,n,h,x,.urlset/master.m3u8?t=ruxVbFXbmsBBQbK6nAM0eyXQldlg2gcV6GRBch0mRtY&s=1780054687&e=43200&v=204195857&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/5au6860ageut_,l,n,h,x,.urlset/master.m3u8?t=bdHaMAJTGaZLq3sj5lzHlW6epaCLOAsB6bzNrd9dkog&s=1780066797&e=43200&v=204329255&i=0.0&sp=0"
   },
   "esref-ruya-s01e36": {
     "title": "مسلسل حلم اشرف الحلقة 36",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/y4m2v87oa9n5_,l,n,h,x,.urlset/master.m3u8?t=yKggw55OQJimm24C7BcMgvEA78EL_ACSMnmVhG58xuw&s=1780054698&e=43200&v=204196052&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/y4m2v87oa9n5_,l,n,h,x,.urlset/master.m3u8?t=XXfSZihbqdGFCt3gIF50_q-EbQmP6kMtKaOqtfMswvo&s=1780066808&e=43200&v=204329379&i=0.0&sp=0"
   },
   "esref-ruya-s01e37": {
     "title": "مسلسل حلم اشرف الحلقة 37",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/n5tm2b916w2t_,l,n,h,x,.urlset/master.m3u8?t=r-PS094v9eaGoqEMHisCkYOOUIQEi88M0-pcrCVNo7k&s=1780054710&e=43200&v=204196255&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/n5tm2b916w2t_,l,n,h,x,.urlset/master.m3u8?t=-87b7AhE3TAd7M8fky0_h_aXZ_kF3vOJBhXN6-1f45E&s=1780066819&e=43200&v=204329480&i=0.0&sp=0"
   },
   "esref-ruya-s01e38": {
     "title": "مسلسل حلم اشرف الحلقة 38",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/oxly5b71eqhn_,l,n,h,x,.urlset/master.m3u8?t=xYvla4GWU8GFVRLMB3fMzRc2ZwNuYBXcF-Tey0NZ2hE&s=1780054721&e=43200&v=204196431&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/oxly5b71eqhn_,l,n,h,x,.urlset/master.m3u8?t=mTBt0gUDM3Thhkz3cD2yN-Bj8xfC6bUI-niWLULkX80&s=1780066830&e=43200&v=204329594&i=0.0&sp=0"
   },
   "esref-ruya-s01e39": {
     "title": "مسلسل حلم اشرف الحلقة 39",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/jdwlo1mjznsk_,l,n,h,x,.urlset/master.m3u8?t=yIBhwFfEbWrvnpevv46c7v-u1o4-TkvWLFx5EhaLeFc&s=1780054732&e=43200&v=204196587&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/jdwlo1mjznsk_,l,n,h,x,.urlset/master.m3u8?t=FOQ2XEnskp4KHsG-0NIFDnKyzNm8WLdkYkTKmunyhlo&s=1780066841&e=43200&v=204329710&i=0.0&sp=0"
   },
   "esref-ruya-s01e40": {
     "title": "مسلسل حلم اشرف الحلقة 40",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/cq9jfueatpx3_,l,n,h,x,.urlset/master.m3u8?t=ZlYCK5mCksSrj7IcWjwML47DcmXyBVbYEKQe3U_YQvs&s=1780054745&e=43200&v=204196791&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/cq9jfueatpx3_,l,n,h,x,.urlset/master.m3u8?t=6AouivMFcw5OWDTK36xyyaJwYkBK-xs4cojIbLXckW0&s=1780066853&e=43200&v=204329843&i=0.0&sp=0"
   },
   "esref-ruya-s01e41": {
     "title": "مسلسل حلم اشرف الحلقة 41",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/i45w5l22zyiw_,l,n,h,x,.urlset/master.m3u8?t=niiFqkJmUojAYXSG9uhILWDfvqHkGD9WmQmhhsNkwbA&s=1780054758&e=43200&v=204196981&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/i45w5l22zyiw_,l,n,h,x,.urlset/master.m3u8?t=AXmsWuZ3HzTDGRiKADNNNRfEJ6-kvH_o1Ltmg9oLR1U&s=1780066866&e=43200&v=204329967&i=0.0&sp=0"
   },
   "esref-ruya-s01e42": {
     "title": "مسلسل حلم اشرف الحلقة 42",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/90iui4tvxnl6_,l,n,h,x,.urlset/master.m3u8?t=kiA5xMslhGqDo1dJR2FhmUUFozkhhAiQ-KTjIiING_4&s=1780054769&e=43200&v=204197114&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/90iui4tvxnl6_,l,n,h,x,.urlset/master.m3u8?t=pDKrtm-Cb7Cc_CDC2FHvhfOybatGIb3g8k6XGhBSS5Y&s=1780066877&e=43200&v=204330108&i=0.0&sp=0"
   },
   "esref-ruya-s01e43": {
     "title": "مسلسل حلم اشرف الحلقة 43",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/nh7r3031sdgw_,l,n,h,x,.urlset/master.m3u8?t=BSjbJy2Z0hELL22vHsTMKQRz_yuDVaObrRMcF2PpSDE&s=1780054782&e=43200&v=204197287&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/nh7r3031sdgw_,l,n,h,x,.urlset/master.m3u8?t=Lpb98PYXxPvg5f6nhS0y_UBbkZ0T1W61Q14nCmWhHhU&s=1780066891&e=43200&v=204330241&i=0.0&sp=0"
   },
   "esref-ruya-s01e44": {
     "title": "مسلسل حلم اشرف الحلقة 44",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/iv49u02fk4ey_,l,n,h,x,.urlset/master.m3u8?t=3jmdWhwU4dPXNg0y_wN_44ZsnsMiKt52nldxlbWa130&s=1780054794&e=43200&v=204197424&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/iv49u02fk4ey_,l,n,h,x,.urlset/master.m3u8?t=pWODb6FF-yimZFilRPWpNyI1hvQnfKa3MaEjZnO1FrA&s=1780066902&e=43200&v=204330351&i=0.0&sp=0"
   },
   "esref-ruya-s01e45": {
     "title": "مسلسل حلم اشرف الحلقة 45",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/lheh91lqi8s6_,l,n,h,x,.urlset/master.m3u8?t=6YHLDjxJe3YGSa1Thx_nrFI_JQYANfcmmBP-yqytDzU&s=1780054807&e=43200&v=204197598&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/lheh91lqi8s6_,l,n,h,x,.urlset/master.m3u8?t=8zXf45DIp7bksiKWcUC7DaEU6GaIe5F6KG6uUSYzcXk&s=1780066915&e=43200&v=204330504&i=0.0&sp=0"
   },
   "yeralti-2026-s01e01": {
     "title": "مسلسل تحت الارض الحلقة 1",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/j4md7uhnnwmb_,l,n,h,x,.urlset/master.m3u8?t=uSX8_yPUqCcPqtxiUMb9AeuO7g7JOHnsr5FVwbxqrEA&s=1780054820&e=43200&v=204197773&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/j4md7uhnnwmb_,l,n,h,x,.urlset/master.m3u8?t=8JgITKIs4S31eMvS-EFVr8OsRIvICt9KqCLekZXD75c&s=1780066928&e=43200&v=204330655&i=0.0&sp=0"
   },
   "yeralti-2026-s01e02": {
     "title": "مسلسل تحت الارض الحلقة 2",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/vok8r31lav77_,l,n,h,x,.urlset/master.m3u8?t=MEvCwv1LCs4rWjDWqoBoOQOQKaECw_-Zz1D84TsZF_U&s=1780054832&e=43200&v=204197920&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/vok8r31lav77_,l,n,h,x,.urlset/master.m3u8?t=53kVUS4k8tHgGZ5nhDTwW3ucDJrHaEKowFeaRZICdLY&s=1780066940&e=43200&v=204330790&i=0.0&sp=0"
   },
   "yeralti-2026-s01e03": {
     "title": "مسلسل تحت الارض الحلقة 3",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/41xdd2pw4z87_,l,n,h,x,.urlset/master.m3u8?t=RjFQXj1jxff6fy1ufVHr5CGWiosVmJlTl_bAEcY-8uc&s=1780054845&e=43200&v=204198047&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/41xdd2pw4z87_,l,n,h,x,.urlset/master.m3u8?t=kZ5-StP8gq9cXyPwnwuxoIPcvbtUzssdohSLWyQncCk&s=1780066953&e=43200&v=204330915&i=0.0&sp=0"
   },
   "yeralti-2026-s01e04": {
     "title": "مسلسل تحت الارض الحلقة 4",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/du2dbod2kzxy_,l,n,h,x,.urlset/master.m3u8?t=UlI74T4oSVsyNVCztZz92JYn6SnAbVXXoGMzeotjCps&s=1780054858&e=43200&v=204198196&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/du2dbod2kzxy_,l,n,h,x,.urlset/master.m3u8?t=sipN8_5pXL-vGXZVT3UuMAZ_jdIMofBh-g5mX8Skv2o&s=1780066966&e=43200&v=204331071&i=0.0&sp=0"
   },
   "yeralti-2026-s01e05": {
     "title": "مسلسل تحت الارض الحلقة 5",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/evi1l0231npw_,l,n,h,x,.urlset/master.m3u8?t=0AgIlvciWx5CuKu8s_-Juj-ywxJ5pbVfglq8-_UftTs&s=1780054870&e=43200&v=204198336&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/evi1l0231npw_,l,n,h,x,.urlset/master.m3u8?t=4TS3uQVcdpNapbtVsU9yjyoJcloQtJacpDxjjzcxiXY&s=1780066980&e=43200&v=204331229&i=0.0&sp=0"
   },
   "yeralti-2026-s01e06": {
     "title": "مسلسل تحت الارض الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/lc39zj3dkjd7_,l,n,h,x,.urlset/master.m3u8?t=TTp2RnQpD2EXeqKwYksncLBkl5XamOO1blf3xFlS9go&s=1780054883&e=43200&v=204198500&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/lc39zj3dkjd7_,l,n,h,x,.urlset/master.m3u8?t=5CbiwuaNOALgV6elyk0YyH8wuEao58JqXJrx_DqH8PE&s=1780066992&e=43200&v=204331356&i=0.0&sp=0"
   },
   "yeralti-2026-s01e07": {
     "title": "مسلسل تحت الارض الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/wr8agoubkx3w_,l,n,h,x,.urlset/master.m3u8?t=yFzpOz8ZTaTyBjRgSieJID_hSmL9ZFFZXUr9NnjU98w&s=1780054894&e=43200&v=204198633&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/wr8agoubkx3w_,l,n,h,x,.urlset/master.m3u8?t=vtCtHkgco15hYDZrEKxkClHIIt4E7GH1z2w0S2enEBk&s=1780067003&e=43200&v=204331473&i=0.0&sp=0"
   },
   "yeralti-2026-s01e08": {
     "title": "مسلسل تحت الارض الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/y8lbvdhrmt10_,l,n,h,x,.urlset/master.m3u8?t=ZcqfbTKLg-nGoSkw_kBfRXZUZR5P_6vlqDwcl11G7oE&s=1780054905&e=43200&v=204198766&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/y8lbvdhrmt10_,l,n,h,x,.urlset/master.m3u8?t=NYdY3UqiZXAD6_lpLFfOnM8CWSCWoYDUT49PB43Y4Dg&s=1780067014&e=43200&v=204331581&i=0.0&sp=0"
   },
   "yeralti-2026-s01e09": {
     "title": "مسلسل تحت الارض الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/n2tmaqu6s61e_,l,n,h,x,.urlset/master.m3u8?t=tEMgmFRdh8FAszPY6NwxVmLqqwZGe8Kmd0gkWRvt23U&s=1780054916&e=43200&v=204198915&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/n2tmaqu6s61e_,l,n,h,x,.urlset/master.m3u8?t=xPFaYMyrzRRVzl6NSLdBuI7pAPxKZRdBK5AoWlI3XS0&s=1780067024&e=43200&v=204331690&i=0.0&sp=0"
   },
   "yeralti-2026-s01e10": {
     "title": "مسلسل تحت الارض الحلقة 10",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/g2h5znzd1jpv_,l,n,h,x,.urlset/master.m3u8?t=ieEK6sJIwfy3uTk0-bBpHgsynpVRuji9PkwPSqiPBgY&s=1780054927&e=43200&v=204199035&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/g2h5znzd1jpv_,l,n,h,x,.urlset/master.m3u8?t=iJCqfEmwqgiHil3VASdHyql3gyCRibuF1C936W_pQyI&s=1780067035&e=43200&v=204331809&i=0.0&sp=0"
   },
   "yeralti-2026-s01e11": {
     "title": "مسلسل تحت الارض الحلقة 11",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/g0o94vc7vpev_,l,n,h,x,.urlset/master.m3u8?t=afxkqC6E42UbzG5NpixXjR990Q3xlZ6HBSYdufQWgWo&s=1780054941&e=43200&v=204199184&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/g0o94vc7vpev_,l,n,h,x,.urlset/master.m3u8?t=0A6XeQglOACjerL-QvYNKzYEd-ASBhbWWdjIv6pD4c4&s=1780067048&e=43200&v=204331935&i=0.0&sp=0"
   },
   "yeralti-2026-s01e12": {
     "title": "مسلسل تحت الارض الحلقة 12",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/nnc82p6emv1d_,l,n,h,x,.urlset/master.m3u8?t=BJBPgqFdb4j_QYvp4VW-JCL37Il1eVprbSO4BHZ-NDQ&s=1780054954&e=43200&v=204199321&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/nnc82p6emv1d_,l,n,h,x,.urlset/master.m3u8?t=6KERQriXFLTUZGPXnDXmE4BdOqr1jdHWFye4R4Rwl-g&s=1780067061&e=43200&v=204332063&i=0.0&sp=0"
   },
   "yeralti-2026-s01e13": {
     "title": "مسلسل تحت الارض الحلقة 13",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/v6jeywdecy7a_,l,n,h,x,.urlset/master.m3u8?t=BzjGV3_p2xwIl4OYlV-fl3PEBPYWySCJNumyj9H4JkA&s=1780054967&e=43200&v=204199456&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/v6jeywdecy7a_,l,n,h,x,.urlset/master.m3u8?t=gdqqOhWvk9g2Qi9iIlFY48Sr-znnM1RzhkYxd-liyRw&s=1780067074&e=43200&v=204332206&i=0.0&sp=0"
   },
   "yeralti-2026-s01e14": {
     "title": "مسلسل تحت الارض الحلقة 14",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/7tfeljp6gyr4_,l,n,h,x,.urlset/master.m3u8?t=8_d3J3OPKtGPVC1n-ha938OgpnelEM9VvOqBAZsuwKU&s=1780054980&e=43200&v=204199593&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/7tfeljp6gyr4_,l,n,h,x,.urlset/master.m3u8?t=JWdBqNmMx9aYkmAfFToKR68CqZC2nknhZ3SqfCxmP8A&s=1780067086&e=43200&v=204332348&i=0.0&sp=0"
   },
   "yeralti-2026-s01e15": {
     "title": "مسلسل تحت الارض الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/gdsd4vga2zu0_,l,n,h,x,.urlset/master.m3u8?t=UYcYmxUmDVpBhHvxe6w11he9vuhQJ9pQ1EONHiGfRCQ&s=1780054992&e=43200&v=204199756&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/gdsd4vga2zu0_,l,n,h,x,.urlset/master.m3u8?t=oGWd8XHPU1cb622PlnaxxougNLYwDJNeGIrfhHGdpeE&s=1780067099&e=43200&v=204332484&i=0.0&sp=0"
   },
   "yeralti-2026-s01e16": {
     "title": "مسلسل تحت الارض الحلقة 16 – الاخيرة",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ksfqav2iz5sn_,l,n,h,x,.urlset/master.m3u8?t=5OlavdxW_lAPXC2sUrRzLMriRPoiuEmsnZU3Vng3_HM&s=1780055004&e=43200&v=204199902&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ksfqav2iz5sn_,l,n,h,x,.urlset/master.m3u8?t=N7KRpn1N3YVXuv0tWa1i5xduLMjKE17tkoNWPubpqkI&s=1780067110&e=43200&v=204332588&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e01": {
     "title": "مسلسل انت من احب الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/prhj83n4r4p2_,l,n,h,x,.urlset/master.m3u8?t=STnESv9nRJEs7diittzpmuK0wfADyar9EICGP0IWmu4&s=1780055015&e=43200&v=204200043&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/prhj83n4r4p2_,l,n,h,x,.urlset/master.m3u8?t=A41KM5CTei52AmtBaD97mnMoEgHQ3TPxpJ3c4cOfzNc&s=1780067121&e=43200&v=204332715&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e02": {
     "title": "مسلسل انت من احب الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/qv0xbwjxprj7_,l,n,h,x,.urlset/master.m3u8?t=iY2BKZZEFA9XEo16ccf3ELnoi8fFX8GMBOWLzFVb03w&s=1780055026&e=43200&v=204200205&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/qv0xbwjxprj7_,l,n,h,x,.urlset/master.m3u8?t=ABqNamx6dc2_L4z9sl_9LnXpWfDg5kfTuq8AtDMDzO0&s=1780067131&e=43200&v=204332842&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e03": {
     "title": "مسلسل انت من احب الحلقة 3",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/fhtjpv9a55yp_,l,n,h,x,.urlset/master.m3u8?t=amx4Xg64EvKQ8Gpm1k7w-LmznX4311alVhn0WiSoqac&s=1780055037&e=43200&v=204200335&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/fhtjpv9a55yp_,l,n,h,x,.urlset/master.m3u8?t=JKBL_haKjNNDRgR_kfcSWabDmlYGCI7dwpHbCD0EAag&s=1780067143&e=43200&v=204332972&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e04": {
     "title": "مسلسل انت من احب الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/7chsz900ev37_,l,n,h,x,.urlset/master.m3u8?t=me1wTIDmqEAJq4R1aF4rgzLIoPIJKN2chX6i_r4pez0&s=1780055051&e=43200&v=204200503&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/7chsz900ev37_,l,n,h,x,.urlset/master.m3u8?t=bchKsyM5MmELSJtQBqjIQy0SzqKOU9FKtL1a5aieaCw&s=1780067157&e=43200&v=204333129&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e05": {
     "title": "مسلسل انت من احب الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/01z9j8eh5dgi_,l,n,h,x,.urlset/master.m3u8?t=mikzD7y3BNyNuZ3qL-HfsfXowv1q2TbD_mVg4KS-96k&s=1780055062&e=43200&v=204200610&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/01z9j8eh5dgi_,l,n,h,x,.urlset/master.m3u8?t=ZjmWlvd2zAdBbAVMKFSdHuIhdeJ3VtZR6mmkHLR-v4I&s=1780067169&e=43200&v=204333267&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e06": {
     "title": "مسلسل انت من احب الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/vjsr2wj10o2p_,l,n,h,x,.urlset/master.m3u8?t=t48kqYcZE_eWcszeuzVjVPQLLmHsNvJxcke6EGgGqH0&s=1780055074&e=43200&v=204200738&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/vjsr2wj10o2p_,l,n,h,x,.urlset/master.m3u8?t=jribRX_cbXYpuMwfGAxGrgNFPb0E-YKHYkG09LsgiTM&s=1780067180&e=43200&v=204333404&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e07": {
     "title": "مسلسل انت من احب الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/h96ar97lbu2e_,l,n,h,x,.urlset/master.m3u8?t=ThMyGF-jWaa__8EXfk_y1arSu7GzRaisUCs1T0D8w0I&s=1780055085&e=43200&v=204200851&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/h96ar97lbu2e_,l,n,h,x,.urlset/master.m3u8?t=SLiG-FY2IPc1qQoacfCME-hLg7IH9BpUy-A_x0cMuNI&s=1780067191&e=43200&v=204333544&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e08": {
     "title": "مسلسل انت من احب الحلقة 8",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/nkdbqm1e2vn9_,l,n,h,x,.urlset/master.m3u8?t=UNnGXUar-AY9bXFf70fUULzUyZZJUXMFzqNY5hWhcC8&s=1780055096&e=43200&v=204200947&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/nkdbqm1e2vn9_,l,n,h,x,.urlset/master.m3u8?t=lZWDapWtgscCv1Y26dhF_oRLx2l0VkAPCjFWwd7jGgI&s=1780067202&e=43200&v=204333660&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e09": {
     "title": "مسلسل انت من احب الحلقة 9",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/kvveqjd2tj90_,l,n,h,x,.urlset/master.m3u8?t=ZDQzhIrH1bH1Wrba1vkqRXFHIeDESuUhsW6v4GZaWOE&s=1780055110&e=43200&v=204201089&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/kvveqjd2tj90_,l,n,h,x,.urlset/master.m3u8?t=cnumIkEpfnE-lsf9mm_Os21r8yxg3X80Prw9mWZfzLQ&s=1780067216&e=43200&v=204333808&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e10": {
     "title": "انت من احب الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ej8qpysm8kh7_,l,n,.urlset/master.m3u8?t=cGHFOqhnrgV5z3jl6aqMtaGS23eBrrAVj3jxx8Bwf2c&s=1780055124&e=43200&v=204201236&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ej8qpysm8kh7_,l,n,.urlset/master.m3u8?t=jW4YXXpUlJYZeanEKlFg4DYrMQia_iLt8Oy4TLruyEA&s=1780067229&e=43200&v=204333949&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e11": {
     "title": "مسلسل انت من احب الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/nua5hzzmt298_,l,n,h,x,.urlset/master.m3u8?t=8yPQ4MW6fWnZn-FgGQUuIzZ2TZEBUnPAw5ASN0SpiIQ&s=1780055135&e=43200&v=204201372&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/nua5hzzmt298_,l,n,h,x,.urlset/master.m3u8?t=99fSkhBttYFzL7vKhCUo6g35Le-K3-CunhtPVhBOxm4&s=1780067241&e=43200&v=204334060&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e12": {
     "title": "مسلسل انت من احب الحلقة 12",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/v416shk6t9tt_,l,n,h,x,.urlset/master.m3u8?t=XGbGKoW_gEsGQy2lntzNsm-T16aOw4m2WkPkx8dvl9Q&s=1780055146&e=43200&v=204201477&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/v416shk6t9tt_,l,n,h,x,.urlset/master.m3u8?t=wq7RzDYrXFTUr4rKZexa6JZqJfZpY7xZZqVpsjXdNKQ&s=1780067252&e=43200&v=204334167&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e13": {
     "title": "مسلسل انت من احب الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/0f6t4gzrsxeh_,l,n,h,x,.urlset/master.m3u8?t=m8XozgStJy-1fFAedkToTDuzGaRwj4T31Sc0hpAe7lY&s=1780055160&e=43200&v=204201604&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/0f6t4gzrsxeh_,l,n,h,x,.urlset/master.m3u8?t=1ni7uAIh4uziaiZOwBdelALQyYlBtC9w8gGhzIkBReY&s=1780067266&e=43200&v=204334316&i=0.0&sp=0"
   },
   "sevdigim-sensin-2026-s01e14": {
     "title": "مسلسل انت من احب الحلقة 14",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/d3h91lcox3k4_,l,n,h,x,.urlset/master.m3u8?t=t0GUYTBawhuhMlH2t0JDgROgta5d-LDPhuAXVxmOK4Q&s=1780055171&e=43200&v=204201714&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/d3h91lcox3k4_,l,n,h,x,.urlset/master.m3u8?t=9ft1aWovf5A9hB2pH4nhzQuVOrvv-XbJT8dJx2f49uA&s=1780067278&e=43200&v=204334443&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e01": {
     "title": "مسلسل المؤسس اورهان الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/lvltq3ib9l5c_,l,n,h,x,.urlset/master.m3u8?t=1-pp1-SAhOEMiaEx_39pjQVR-J8Ai_SIL1ezbuWvWek&s=1780055185&e=43200&v=204201899&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/lvltq3ib9l5c_,l,n,h,x,.urlset/master.m3u8?t=dmK3NbawqUlQzIC1re9C0mS96yVjdMxxYGK33uB9yRo&s=1780067291&e=43200&v=204334583&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e02": {
     "title": "مسلسل المؤسس اورهان الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/edrd2b20c1tw_,l,n,h,x,.urlset/master.m3u8?t=tvUCYVxm3YYUQMRlcXzFzO_AsBswoITQqfPXJWzJS1o&s=1780055196&e=43200&v=204202032&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/edrd2b20c1tw_,l,n,h,x,.urlset/master.m3u8?t=0aDJfy8bMIcUqatnmTReVhG7y-IQ9EYL_ddRdIes1Ww&s=1780067303&e=43200&v=204334693&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e03": {
     "title": "مسلسل المؤسس اورهان الحلقة 3",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/pa962ymaax43_,l,n,h,x,.urlset/master.m3u8?t=HnA8DIF2LA0Z9himpTQCnf_w-6GlU75FSmSO-f-fWyY&s=1780055207&e=43200&v=204202171&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/pa962ymaax43_,l,n,h,x,.urlset/master.m3u8?t=u7Ap7JQ2PSuwXZTi01M1BJaCaXpt6JXMGOc_9pvME98&s=1780067314&e=43200&v=204334826&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e04": {
     "title": "مسلسل المؤسس اورهان الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/89v266az6aiv_,l,n,h,x,.urlset/master.m3u8?t=PZf3Hmj3asKqvmBvwOTm36w5OQJrAoQ2eQ4EcG7QlHM&s=1780055219&e=43200&v=204202315&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/89v266az6aiv_,l,n,h,x,.urlset/master.m3u8?t=HEGDFbTOMvPy320Eu7G9RJojWSOROiTgANEuxDADkeU&s=1780067325&e=43200&v=204334953&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e05": {
     "title": "مسلسل المؤسس اورهان الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/9nsyiqshy2ck_,l,n,h,x,.urlset/master.m3u8?t=DD2Zdq8gQJwtBQ6mcBiN_kRqIuPQIpra5odX6l3rcSg&s=1780055230&e=43200&v=204202444&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/9nsyiqshy2ck_,l,n,h,x,.urlset/master.m3u8?t=DIGtyA0gjbddY6B8JSE43_oR9VELcdgVyHBq3NU5mPY&s=1780067336&e=43200&v=204335070&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e06": {
     "title": "مسلسل المؤسس اورهان الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/b4ozqgz8mdpc_,l,n,h,x,.urlset/master.m3u8?t=XTqcy1F7QarY3uYD92qd4dG4F9t_ONuApt2f0dNrhLU&s=1780055241&e=43200&v=204202580&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/b4ozqgz8mdpc_,l,n,h,x,.urlset/master.m3u8?t=ngMeWDgG1YI44PhpAPGDQvg7j7_vKWR94Z_MCIP0NYc&s=1780067347&e=43200&v=204335161&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e07": {
     "title": "مسلسل المؤسس اورهان الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/y2pimgjvaqy6_,l,n,h,x,.urlset/master.m3u8?t=VHygWTbdkI7UXwOuLuN4WtMh5e3WFxwkLbHv0veeF64&s=1780055252&e=43200&v=204202704&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/y2pimgjvaqy6_,l,n,h,x,.urlset/master.m3u8?t=qT1_5sCzcm2pBU113SzodaKHEgJd_3az0TRX9vH0Ixc&s=1780067359&e=43200&v=204335290&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e08": {
     "title": "مسلسل المؤسس اورهان الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/xgkah5gsilcl_,l,n,h,x,.urlset/master.m3u8?t=w46Wp30SevwSx9dCCfjET04mb3LEj6_pgBwsIjN2k84&s=1780055263&e=43200&v=204202838&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/xgkah5gsilcl_,l,n,h,x,.urlset/master.m3u8?t=aBSu5-cxGSDdKYzTADeDLj2a_3VvGf7gUSrnRe6EgOI&s=1780067377&e=43200&v=204335458&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e09": {
     "title": "مسلسل المؤسس اورهان الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/hx2qs7bniopi_,l,n,h,x,.urlset/master.m3u8?t=xIDgJaQy3IPwlkO_N_7egkKCPjuBIgK66LvmrLtgrEM&s=1780055275&e=43200&v=204202961&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/hx2qs7bniopi_,l,n,h,x,.urlset/master.m3u8?t=7uB6POkXWmFTbVMLIgzJgMxEpPdLmwDOpzlr_n2yDOM&s=1780067388&e=43200&v=204335587&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e10": {
     "title": "مسلسل المؤسس اورهان الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/r0k1iky3h581_,l,n,h,x,.urlset/master.m3u8?t=LW0PjjQg7U6Ec5SG1Hl1WegeZZMIK9SADrOcBky_ftQ&s=1780055285&e=43200&v=204203083&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/r0k1iky3h581_,l,n,h,x,.urlset/master.m3u8?t=miBFpJk0JtzW8kopX-L8Wn3i4DKO3z8dfROKrlJIV6Q&s=1780067399&e=43200&v=204335698&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e11": {
     "title": "مسلسل المؤسس اورهان الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/i03hfd4cd6v8_,l,n,h,x,.urlset/master.m3u8?t=Bxuw4Cr5VSu9stKUjsJilLI-mdRUM7r-GOGKSYPKrfk&s=1780055297&e=43200&v=204203223&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/i03hfd4cd6v8_,l,n,h,x,.urlset/master.m3u8?t=h0fgqBLdAONf6MdD0WvbzQwYAQBb-h6FP4Fqi3I0jhs&s=1780067410&e=43200&v=204335827&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e12": {
     "title": "مسلسل المؤسس اورهان الحلقة 12",
-    "url": "https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1052693232&e=e&n=5618950297711418&aid=yGQxmOSGEeeg%2BRKCk4Wcgw&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=9&emi=fcuemtteo0gv&i=0&lid=1hrsarue3zcj&lsa=set&mt=0&pbd=1&pbr=1&pgi=1bolkpr166ca&ph=0&pii=0&pl=719&plc=1&pli=1b2gzrd19lpr&pp=hlsjs&ppm=VOD&prc=1&ps=3&pss=1&pt=&pu=https%3A%2F%2Fcdnplus.cyou%2Fembed-c6l7v5yezvxj.html&pv=8.34.5&pyc=0&s=0&sdk=0&ss=1&stc=1&stpe=0&t=Kurulu%C5%9F%20Orhan%202025%20S01E12&tv=4.0.14&vb=1&vi=1&vl=90&wd=1280&ab=0&cae=0&cb=1&cdid=vplayer&cme=0&dd=1&flc=0&fv=&ga=0&mk=hls&mu=https%3A%2F%2Falbrq-store1-tgb.cdnz.quest%2Fhls2%2F07%2F00005%2Fc6l7v5yezvxj_%2Cl%2Cn%2Ch%2Cx%2C.urlset%2Fmaster.m3u8%3Ft%3DRdhq6MK_S0BAuKc9p0_Mjk9v2YCvDPo15Q8zxZfWzC8%26s%3D1780055308%26e%3D43200%26v%3D204203347%26i%3D0.0%26sp%3D0&pbc=1&pd=3&pdr=&plng=en-US&plt=500&pni=0&po=1&sp=0&st=120&sa=1780055308594"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/c6l7v5yezvxj_,l,n,h,x,.urlset/master.m3u8?t=cpw5zPJQnV0vK44PQrxF5HjeQlM7EumCoY3za6QsuTc&s=1780067421&e=43200&v=204335932&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e13": {
     "title": "مسلسل المؤسس اورهان الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/wfndb2c31d3t_,l,n,h,x,.urlset/master.m3u8?t=HoVp9EO341VE0L9eIwObu9RrWCcvJBowp5MqKy8lCaw&s=1780055319&e=43200&v=204203478&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/wfndb2c31d3t_,l,n,h,x,.urlset/master.m3u8?t=q0cgqurrA2pJqYakoNjJrfgdSVrCGRbIhqSz8-kcj8U&s=1780067433&e=43200&v=204336053&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e14": {
     "title": "مسلسل المؤسس اورهان الحلقة 14",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/kinz9d3wv1gh_,l,n,h,x,.urlset/master.m3u8?t=yv2a5Vw8iJavKbm5Zf3kzQCz8C0xzE8i2eg-JgJ-Lro&s=1780055330&e=43200&v=204203595&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/kinz9d3wv1gh_,l,n,h,x,.urlset/master.m3u8?t=kJ-0h409XfMpD3w2Jxd5bp37MRqopRDAySiuSinRNTA&s=1780067443&e=43200&v=204336157&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e15": {
     "title": "مسلسل المؤسس اورهان الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/xowi2at2bb2r_,l,n,h,x,.urlset/master.m3u8?t=szF0Vv7ThJP_VG7hgd9dXljvJYIIc0qiHsf8YFmNmtg&s=1780055341&e=43200&v=204203705&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/xowi2at2bb2r_,l,n,h,x,.urlset/master.m3u8?t=IR_en3i8NpLJ-GmMxrHWo2BotSgK8nBtKc-O5uub9CM&s=1780067454&e=43200&v=204336265&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e16": {
     "title": "مسلسل المؤسس اورهان الحلقة 16",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/2xqlvrh6c5ol_,l,n,h,x,.urlset/master.m3u8?t=stbZrJsQihpyip0DF47gQB5t9HRQL27Jeh6tAzJUdOM&s=1780055353&e=43200&v=204203806&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/2xqlvrh6c5ol_,l,n,h,x,.urlset/master.m3u8?t=9jQBs2Ud190QInabQn_iKCJC78OdpX2WsRL864bWpds&s=1780067467&e=43200&v=204336409&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e17": {
     "title": "مسلسل المؤسس اورهان الحلقة 17",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/ewdgkh2uyigx_,l,n,h,x,.urlset/master.m3u8?t=bDXJWtisZ1SrTBtczOx2i-x5TTgHqx_y6cYqzH5noMU&s=1780055366&e=43200&v=204203943&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/ewdgkh2uyigx_,l,n,h,x,.urlset/master.m3u8?t=6vFnZYXuvmGjgK7vggQSH8zmsf_tB2UTLLgKgguAAcg&s=1780067481&e=43200&v=204336561&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e18": {
     "title": "مسلسل المؤسس اورهان الحلقة 18",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/tv625uhn8gi4_,l,n,h,x,.urlset/master.m3u8?t=367xFrVgOnYOrnZOUWINtoRDtdG19tevaQ4dyIc29RM&s=1780055377&e=43200&v=204204060&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/tv625uhn8gi4_,l,n,h,x,.urlset/master.m3u8?t=LU8XlMuMlomhv4hfpm-7th1sTbp6dHbudqdtPfNYs5E&s=1780067492&e=43200&v=204336700&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e19": {
     "title": "مسلسل المؤسس اورهان الحلقة 19",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/9i06nxv9jwc9_,l,n,h,x,.urlset/master.m3u8?t=24y4NN4q8NOL2TkqpeUxWrTi6hzJMIJCNf2weBV7cSg&s=1780055388&e=43200&v=204204171&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/9i06nxv9jwc9_,l,n,h,x,.urlset/master.m3u8?t=WAX3C7kBfn70L3Z7USkt7a637Ly09_Gihp_r98mn0rw&s=1780067504&e=43200&v=204336825&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e20": {
     "title": "مسلسل المؤسس اورهان الحلقة 20",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/verqxnar9y17_,l,n,h,x,.urlset/master.m3u8?t=G8XoRubf4DvOdyraeGZNtVnbUM0f6bPc0dzQXrov36c&s=1780055399&e=43200&v=204204287&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/verqxnar9y17_,l,n,h,x,.urlset/master.m3u8?t=ZfgXhKr2tWCjNOO-drBfLodBJhpFnlbfXBk8zgrWVhc&s=1780067515&e=43200&v=204336944&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e21": {
     "title": "مسلسل المؤسس اورهان الحلقة 21",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/v9qgklrfhhz3_,l,n,h,x,.urlset/master.m3u8?t=TjWm5ax63PUn7io2-K1ALL_ZfqKz35c-RCkBXIDrcKI&s=1780055412&e=43200&v=204204423&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/v9qgklrfhhz3_,l,n,h,x,.urlset/master.m3u8?t=TL1ykvqltQis02omGOPY-lmOV7gYziNAiLOanJfaY78&s=1780067528&e=43200&v=204337075&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e22": {
     "title": "مسلسل المؤسس اورهان الحلقة 22",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/d46qzs8bwfmh_,l,n,h,x,.urlset/master.m3u8?t=pcoMTq64RplZw1iGp6hfkQfH_6z4AfIl9urRCGky9Q4&s=1780055426&e=43200&v=204204557&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/d46qzs8bwfmh_,l,n,h,x,.urlset/master.m3u8?t=i7Y4jlfFkp9iHFEMuOeBtSM-VaUJ7voM7ktigh79KsM&s=1780067542&e=43200&v=204337232&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e23": {
     "title": "مسلسل المؤسس اورهان الحلقة 23",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/42gus9y9lati_,l,n,h,x,.urlset/master.m3u8?t=GWEDQCVaIA9E3IYhZx8v_EAM5suvtKWkXCazRXfydLY&s=1780055437&e=43200&v=204204665&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/42gus9y9lati_,l,n,h,x,.urlset/master.m3u8?t=im6yli0rU2l5LmZF0jCEXtJvQc1UogJxedIORlhWHEQ&s=1780067553&e=43200&v=204337370&i=0.0&sp=0"
   },
   "kurulus-orhan-2025-s01e24": {
     "title": "مسلسل المؤسس اورهان الحلقة 24",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/r56ovdxwxnx3_,l,n,h,x,.urlset/master.m3u8?t=GdSWwr1tt1qDMeIG9kKJuuF5BmRFrCUnhZ9LKodtnPw&s=1780055451&e=43200&v=204204812&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/r56ovdxwxnx3_,l,n,h,x,.urlset/master.m3u8?t=vsEi0rf6YJ8B_2XRqc4gqDiLbfBDhYLfmW6H5ScVyBE&s=1780067566&e=43200&v=204337496&i=0.0&sp=0"
   },
   "uzak-sehir-s01e01": {
     "title": "مسلسل المدينة البعيدة الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/ppyctoz7ppjk_,l,n,h,x,.urlset/master.m3u8?t=1soZA1M7jQ402RE3JMeuFNWwp5Q7NMgLg1ONv1AGIgM&s=1780055464&e=43200&v=204204941&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/ppyctoz7ppjk_,l,n,h,x,.urlset/master.m3u8?t=6EJ6ubEI1zu7nVKlPXcOTf2ij0JI4CbbcGPRozywNjc&s=1780067579&e=43200&v=204337606&i=0.0&sp=0"
   },
   "uzak-sehir-s01e02": {
     "title": "مسلسل المدينة البعيدة الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/228onyw23su5_,l,n,h,x,.urlset/master.m3u8?t=B1VH-Pgex1HXFiV9N8fBKFOk2dMYChRb5pSclHrnaKs&s=1780055475&e=43200&v=204205067&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/228onyw23su5_,l,n,h,x,.urlset/master.m3u8?t=97_XFi4S6Br3_9_VLHbl3-dvX3VbY6rL5qQ7LCi4-8w&s=1780067591&e=43200&v=204337720&i=0.0&sp=0"
   },
   "uzak-sehir-s01e03": {
     "title": "مسلسل المدينة البعيدة الحلقة 3",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/aqqghagwpsri_,l,n,h,x,.urlset/master.m3u8?t=plW-b7GOOGjvpj9U9J_D2RTHYlvGyjCMBZTYn5nHmPw&s=1780055486&e=43200&v=204205167&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/aqqghagwpsri_,l,n,h,x,.urlset/master.m3u8?t=iDvp8RnAtZK0kcZUTl7hAJwhBBBvxNCgR-_LIth8HPk&s=1780067602&e=43200&v=204337835&i=0.0&sp=0"
   },
   "uzak-sehir-s01e04": {
     "title": "مسلسل المدينة البعيدة الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/nbu6kxee4u72_,l,n,h,x,.urlset/master.m3u8?t=G9Hkb7Xqoz-zXM56g-hYwKvZVtze5zOBOsgCyDkiUuY&s=1780055498&e=43200&v=204205301&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/nbu6kxee4u72_,l,n,h,x,.urlset/master.m3u8?t=ap3pMNxyJrR0wHJEwV7bk0vqX_-75Dptj8apGvjXmN4&s=1780067613&e=43200&v=204337956&i=0.0&sp=0"
   },
   "uzak-sehir-s01e05": {
     "title": "مسلسل المدينة البعيدة الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wr2bbqpogert_,l,n,h,x,.urlset/master.m3u8?t=gCB6ppFpVMvB4YM9VwPZDnV6n-zdKa3x7Zf-UuK7Z6Y&s=1780055509&e=43200&v=204205415&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wr2bbqpogert_,l,n,h,x,.urlset/master.m3u8?t=BjdxQk4USin4U22EnMErl10O4I5EjnBEaMQ5Z4n8Xi4&s=1780067624&e=43200&v=204338075&i=0.0&sp=0"
   },
   "uzak-sehir-s01e06": {
     "title": "مسلسل المدينة البعيدة الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/kqhyjfuns2cl_,l,n,h,x,.urlset/master.m3u8?t=CcG4Cd4mYVg-8JAwK-IeqcSsa5oOKIcRfqxABBJWveY&s=1780055520&e=43200&v=204205539&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/kqhyjfuns2cl_,l,n,h,x,.urlset/master.m3u8?t=ZqRu4v1H4u6MFcuDIokhWzrxL3DB5hawrz5ZhVDyWTs&s=1780067636&e=43200&v=204338170&i=0.0&sp=0"
   },
   "uzak-sehir-s01e07": {
     "title": "مسلسل المدينة البعيدة الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/y4gr9whw1qym_,l,n,h,x,.urlset/master.m3u8?t=UlmRwzl6T-LGSwJLnb8ATf3ve0-AQyXddAtW_nHSutI&s=1780055531&e=43200&v=204205644&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/y4gr9whw1qym_,l,n,h,x,.urlset/master.m3u8?t=QVQFpeUOlUobwOZ6B9aJqKs1kDnX6xYpD9Fop0FIYdI&s=1780067647&e=43200&v=204338305&i=0.0&sp=0"
   },
   "uzak-sehir-s01e08": {
     "title": "مسلسل المدينة البعيدة الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/4nj65t8l0qco_,l,n,h,x,.urlset/master.m3u8?t=cDUM2t9nxU1f_cbjAQIjJRtLbikRAlArNMCVN8aDHck&s=1780055542&e=43200&v=204205770&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/4nj65t8l0qco_,l,n,h,x,.urlset/master.m3u8?t=p28Xb2xWyYbplaNkTLPeuXYybzEwNQT0XmYW8_NNyb0&s=1780067658&e=43200&v=204338405&i=0.0&sp=0"
   },
   "uzak-sehir-s01e09": {
     "title": "مسلسل المدينة البعيدة الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/3yh06c6vb1d3_,l,n,h,x,.urlset/master.m3u8?t=wuajG4BSKLmhJIUHNExHvFMUKhgpXL-hb2QK0lDaH0M&s=1780055554&e=43200&v=204205885&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/3yh06c6vb1d3_,l,n,h,x,.urlset/master.m3u8?t=BgW-z44OCJtGAeYDxYKWzPxjUm4ydtBpFvw40tfe8WM&s=1780067669&e=43200&v=204338511&i=0.0&sp=0"
   },
   "uzak-sehir-s01e10": {
     "title": "مسلسل المدينة البعيدة الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/6wmljxf69p6c_,l,n,h,x,.urlset/master.m3u8?t=IqJ25eYvOZuzplbMnPIypOoviu996qjkuMH5yk5foqo&s=1780055565&e=43200&v=204205992&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/6wmljxf69p6c_,l,n,h,x,.urlset/master.m3u8?t=6ZmEy1Hko_tMuEc_We0YqBvNjLvnC3gIgjXhbgeVPcE&s=1780067680&e=43200&v=204338633&i=0.0&sp=0"
   },
   "uzak-sehir-s01e11": {
     "title": "مسلسل المدينة البعيدة الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wj4hcuab7nhe_,l,n,h,x,.urlset/master.m3u8?t=o9lsvYyDvGCw-ysCldSbPky0FkKr6a7osv11KjQe8Uo&s=1780055577&e=43200&v=204206093&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wj4hcuab7nhe_,l,n,h,x,.urlset/master.m3u8?t=DJKHZXQOIszZx1SRTBrT5BaGZa9dxpbNtBC1d-pxZh8&s=1780067691&e=43200&v=204338765&i=0.0&sp=0"
   },
   "uzak-sehir-s01e12": {
     "title": "مسلسل المدينة البعيدة الحلقة 12",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/4wsvntynq18l_,l,n,h,x,.urlset/master.m3u8?t=p3b-cpaFxSv-Go2YS7q7otDxnSMuU39GU9kS5WnMbgA&s=1780055588&e=43200&v=204206207&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/4wsvntynq18l_,l,n,h,x,.urlset/master.m3u8?t=x8smOMYRHyrVW2bFlE15udYVlgQWlbu-bDTlbRb_MdY&s=1780067702&e=43200&v=204338875&i=0.0&sp=0"
   },
   "uzak-sehir-s01e13": {
     "title": "مسلسل المدينة البعيدة الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wmdty7qdpukc_,l,n,h,x,.urlset/master.m3u8?t=97pXHPURFH-3ahyi9nNi8D4GAZOGwm-4EQGo7OjzHXM&s=1780055599&e=43200&v=204206320&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wmdty7qdpukc_,l,n,h,x,.urlset/master.m3u8?t=WjQ2jI4ZlDAkOf9OR7DQIs58Yz0JRML5n7hx2WZeQy8&s=1780067713&e=43200&v=204339001&i=0.0&sp=0"
   },
   "uzak-sehir-s01e14": {
     "title": "مسلسل المدينة البعيدة الحلقة 14",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/uir0gesn59f9_,l,n,h,x,.urlset/master.m3u8?t=GMd9jZno86k0u9YhdKm-sdWawJ4mWaOm-MU-sBNOsqQ&s=1780055610&e=43200&v=204206433&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/uir0gesn59f9_,l,n,h,x,.urlset/master.m3u8?t=Sy6p_rMwPX8jRziIeD_kQ-esvaicKQWmZrcfBFk6TJM&s=1780067725&e=43200&v=204339110&i=0.0&sp=0"
   },
   "uzak-sehir-s01e15": {
     "title": "مسلسل المدينة البعيدة الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/kvfyt4vw4536_,l,n,h,x,.urlset/master.m3u8?t=ylfgtJinjlbytR6_tN0PzndenO2Vb8lbi3D5tkoZ-YY&s=1780055622&e=43200&v=204206532&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/kvfyt4vw4536_,l,n,h,x,.urlset/master.m3u8?t=KccXlaZ2vf7tCYodtWh2T72O1vx1gQusIZl4AToEPPE&s=1780067736&e=43200&v=204339233&i=0.0&sp=0"
   },
   "uzak-sehir-s01e16": {
     "title": "مسلسل المدينة البعيدة الحلقة 16",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/rcgjqrwbx2o4_,l,n,h,x,.urlset/master.m3u8?t=aA0cd_JN4q4S_WbZG4JkEaCtQJtpjtpAax78zSWhdgw&s=1780055633&e=43200&v=204206637&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/rcgjqrwbx2o4_,l,n,h,x,.urlset/master.m3u8?t=16yTrbXfH6zZFJpC34dQsSMeIT0r6t6pZRISn8nn0oo&s=1780067747&e=43200&v=204339385&i=0.0&sp=0"
   },
   "uzak-sehir-s01e17": {
     "title": "مسلسل المدينة البعيدة الحلقة 17",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/c6jbhzuhx7qi_,l,n,h,x,.urlset/master.m3u8?t=TeI43huhnP1T0cKN_e9k8RkWqkQZoTxSrlD7aL5AL1I&s=1780055644&e=43200&v=204206758&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/c6jbhzuhx7qi_,l,n,h,x,.urlset/master.m3u8?t=VASdJs6iay6gbfRE19e2cWa_6Jk1ZfoC3_J72JUTpEQ&s=1780067758&e=43200&v=204339486&i=0.0&sp=0"
   },
   "uzak-sehir-s01e18": {
     "title": "مسلسل المدينة البعيدة الحلقة 18",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/cgcls8uau3b3_,l,n,h,x,.urlset/master.m3u8?t=efKdLCSiV7Jph6LX0XPIlf7x2jz-nRS6zcenQqK2SjQ&s=1780055655&e=43200&v=204206856&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/cgcls8uau3b3_,l,n,h,x,.urlset/master.m3u8?t=UNMh4jQKT15h5cSdBY8Ja-CF7OLefC7Gn45-ZLSYEJQ&s=1780067769&e=43200&v=204339622&i=0.0&sp=0"
   },
   "uzak-sehir-s01e19": {
     "title": "مسلسل المدينة البعيدة الحلقة 19",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/u4np541adzd3_,l,n,h,x,.urlset/master.m3u8?t=beVEs82DAz00i8msCyltCXmF6rVlNshlL0rsfppbgwE&s=1780055666&e=43200&v=204206958&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/u4np541adzd3_,l,n,h,x,.urlset/master.m3u8?t=NWiYDsWQZSFQebXCowKxQA7gwf56IKfbjOyU-1QlOCQ&s=1780067780&e=43200&v=204339756&i=0.0&sp=0"
   },
   "uzak-sehir-s01e20": {
     "title": "مسلسل المدينة البعيدة الحلقة 20",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/ia1ucls41yuy_,l,n,h,x,.urlset/master.m3u8?t=M8jM9moOi23odSCAu38ichYsDrUk1Aw88nGW65PQ-2A&s=1780055678&e=43200&v=204207068&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/ia1ucls41yuy_,l,n,h,x,.urlset/master.m3u8?t=0IIB3-KEoinaPXQDlkqPrnn29yaKnOXoEJGg56lev8Q&s=1780067792&e=43200&v=204339855&i=0.0&sp=0"
   },
   "uzak-sehir-s01e21": {
     "title": "مسلسل المدينة البعيدة الحلقة 21",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/lms3k7k364i2_,l,n,h,x,.urlset/master.m3u8?t=cZ_A57-Xawm66pZ_j4SLSTQiYNL86QOMPVPoT96Joiw&s=1780055689&e=43200&v=204207201&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/lms3k7k364i2_,l,n,h,x,.urlset/master.m3u8?t=pewkxJxEipMGZ_Y5R5RbmvDCVgO5to4qfrQ-4ypwQ0M&s=1780067803&e=43200&v=204339974&i=0.0&sp=0"
   },
   "uzak-sehir-s01e22": {
     "title": "مسلسل المدينة البعيدة الحلقة 22",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/jr7npu5ujz8l_,l,n,h,x,.urlset/master.m3u8?t=NOeTrnXxhIpE8H7cGi3ZNSf1oW4TtPnKK5FWTJr7RS0&s=1780055701&e=43200&v=204207326&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/jr7npu5ujz8l_,l,n,h,x,.urlset/master.m3u8?t=0-en8I1OP89gpo1_xDnoCmC82jSZ5zHANfvcEl-hH4Y&s=1780067814&e=43200&v=204340089&i=0.0&sp=0"
   },
   "uzak-sehir-s01e23": {
     "title": "مسلسل المدينة البعيدة الحلقة 23",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/qhvzgfhh8dt0_,l,n,h,x,.urlset/master.m3u8?t=gS72iHUIc7kH-Z3YrA3s72LmUsg_hv7QKMfH1lwD6bg&s=1780055712&e=43200&v=204207451&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/qhvzgfhh8dt0_,l,n,h,x,.urlset/master.m3u8?t=td_eUxjTsMIpMNGeKo3F1HwVFHXPIEv6XoE2kA3jqP4&s=1780067825&e=43200&v=204340213&i=0.0&sp=0"
   },
   "uzak-sehir-s01e24": {
     "title": "مسلسل المدينة البعيدة الحلقة 24",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/mi3mqzl59zi5_,l,n,h,x,.urlset/master.m3u8?t=iVQMKr4gPt8SXk4tLQuNPG34SOr72f5n-mQS1ycV6-g&s=1780055723&e=43200&v=204207582&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/mi3mqzl59zi5_,l,n,h,x,.urlset/master.m3u8?t=wHqaKrpuvyvlZdyG3MtAoFSyTxMwYbpUeNOFVv14_Bo&s=1780067836&e=43200&v=204340335&i=0.0&sp=0"
   },
   "uzak-sehir-s01e25": {
     "title": "مسلسل المدينة البعيدة الحلقة 25",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/t5f77dxhsbkf_,l,n,h,x,.urlset/master.m3u8?t=QLIFfMtb-ds7GdoE9HnQpDRE5dPuQr0VOpZ148ELeiw&s=1780055734&e=43200&v=204207706&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/t5f77dxhsbkf_,l,n,h,x,.urlset/master.m3u8?t=ZZGovc2sUZHQmF--YKuftZsYXZ5FrHWarw5pVWm9oXA&s=1780067847&e=43200&v=204340434&i=0.0&sp=0"
   },
   "uzak-sehir-s01e26": {
     "title": "مسلسل المدينة البعيدة الحلقة 26",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/pbeumkydpceh_,l,n,h,x,.urlset/master.m3u8?t=keXV9Q8eBJG5U5TbmdRn2KQc80gmCtZjaapNYTDK9Ug&s=1780055745&e=43200&v=204207822&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/pbeumkydpceh_,l,n,h,x,.urlset/master.m3u8?t=RK4Yb_5A6aPEaUAVF3tfOLE1En766VHlLrz8hD0PBgE&s=1780067862&e=43200&v=204340576&i=0.0&sp=0"
   },
   "uzak-sehir-s01e27": {
     "title": "مسلسل المدينة البعيدة الحلقة 27",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wlftknd5ik4z_,l,n,h,x,.urlset/master.m3u8?t=PQTQBPMeOiu8GaAo96-caDE38RvvTBk_M49kBEZu8c0&s=1780055756&e=43200&v=204207946&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/wlftknd5ik4z_,l,n,h,x,.urlset/master.m3u8?t=dJdfaXXtPwFv2eCfscj8__vCqY_QM0LdJ8n4iZA1X28&s=1780067873&e=43200&v=204340693&i=0.0&sp=0"
   },
   "uzak-sehir-s01e28": {
     "title": "مسلسل المدينة البعيدة الحلقة 28 – نهاية الموسم",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/whxztpgse6es_,l,n,h,x,.urlset/master.m3u8?t=ueTPTdKlv5wbIV3EQ3VV74t4YocQeQ4C7Jw5-_LQ_b8&s=1780055767&e=43200&v=204208073&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/whxztpgse6es_,l,n,h,x,.urlset/master.m3u8?t=9iA47aDvaTH071p9m99aZsORLqYEIoJeXFjJlzHy3U4&s=1780067884&e=43200&v=204340817&i=0.0&sp=0"
   },
   "uzak-sehir-s01e29": {
     "title": "مسلسل المدينة البعيدة الحلقة 29",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/btgb0t1y8bb1_,l,n,h,x,.urlset/master.m3u8?t=gLwg9mROH0NBDh36YYugKVOI0-3i8b-jPG3kze1PbGI&s=1780055778&e=43200&v=204208208&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/btgb0t1y8bb1_,l,n,h,x,.urlset/master.m3u8?t=fIy26YW3vl59VsGie_co67EFQVDRnvqrzz-NSg_xzLI&s=1780067895&e=43200&v=204340947&i=0.0&sp=0"
   },
   "uzak-sehir-s01e30": {
     "title": "مسلسل المدينة البعيدة الحلقة 30",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/49crc29g2xkl_,l,n,h,x,.urlset/master.m3u8?t=O8rBy2g6Nb_KgnvkqVALryw4x_HfyMZ1clrVH0wlJPM&s=1780055789&e=43200&v=204208346&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/49crc29g2xkl_,l,n,h,x,.urlset/master.m3u8?t=wfn1zjJZ5WZ7MJZXssFcEYY7LWUOK0ywtZA6pF3Db-I&s=1780067907&e=43200&v=204341089&i=0.0&sp=0"
   },
   "uzak-sehir-s01e31": {
     "title": "مسلسل المدينة البعيدة الحلقة 31",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/q9kh4x892hbg_,l,n,h,x,.urlset/master.m3u8?t=w4yzFz1uzQSwDf2VJWos_eAgOiF3i0hN1crKxEZlEsw&s=1780055800&e=43200&v=204208459&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/q9kh4x892hbg_,l,n,h,x,.urlset/master.m3u8?t=-JZIRRbsvFjDdSSSzjxma3Cnuwz71TShZL0BWzyiIC0&s=1780067918&e=43200&v=204341204&i=0.0&sp=0"
   },
   "uzak-sehir-s01e32": {
     "title": "مسلسل المدينة البعيدة الحلقة 32",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/657w138zl4y7_,l,n,h,x,.urlset/master.m3u8?t=dfcli6KRsIhUitaA7hdGpkJBxnO3cqP6dk0ZwLEFMQc&s=1780055813&e=43200&v=204208595&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/657w138zl4y7_,l,n,h,x,.urlset/master.m3u8?t=fMDuNYBkr0nl86xDx9kt_zpmvWx6FMY4KmXJE75olz0&s=1780067930&e=43200&v=204341312&i=0.0&sp=0"
   },
   "uzak-sehir-s01e33": {
     "title": "مسلسل المدينة البعيدة الحلقة 33",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/d9ju8x5695wl_,l,n,h,x,.urlset/master.m3u8?t=pxuscHCaqZ2pdh08fl-UqOs8M3h0WNMDz8HFjVi0Icw&s=1780055827&e=43200&v=204208759&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/d9ju8x5695wl_,l,n,h,x,.urlset/master.m3u8?t=C38kTEDhPcu-8VDfyLKtpMPXXa-LF5pvuU_DPXSB_CI&s=1780067941&e=43200&v=204341436&i=0.0&sp=0"
   },
   "uzak-sehir-s01e34": {
     "title": "مسلسل المدينة البعيدة الحلقة 34",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/0mwmel4t0bxj_,l,n,h,x,.urlset/master.m3u8?t=bN7nSE9V1Fx-bfSHp2IyGoMTuLw9pDUIZXEeAcXS-Qg&s=1780055838&e=43200&v=204208878&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/0mwmel4t0bxj_,l,n,h,x,.urlset/master.m3u8?t=wMdEDvbDwm5B18Ys9dWtbqKa_3robdztPjT7s-cVNec&s=1780067953&e=43200&v=204341550&i=0.0&sp=0"
   },
   "uzak-sehir-s01e35": {
     "title": "مسلسل المدينة البعيدة الحلقة 35",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/etm5wtc8f04p_,l,n,h,x,.urlset/master.m3u8?t=l6ZMwUbNbSP5YkECV9R0omml2hoH6Ja-MH2z2GLN6HI&s=1780055849&e=43200&v=204209011&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/etm5wtc8f04p_,l,n,h,x,.urlset/master.m3u8?t=ZVqZUMTxbuKPTepqrS1_9LvNmC1TbNZyBASaSxaj7b4&s=1780067963&e=43200&v=204341679&i=0.0&sp=0"
   },
   "uzak-sehir-s01e36": {
     "title": "مسلسل المدينة البعيدة الحلقة 36",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/czljrndfh6qg_,l,n,h,x,.urlset/master.m3u8?t=v0culWcrIZSraOxqQeaVxK_M-8r1hjpMKlO-g7dhlb4&s=1780055860&e=43200&v=204209127&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/czljrndfh6qg_,l,n,h,x,.urlset/master.m3u8?t=VM6Wx0N3AHkLYArFBELxCI2nDAupGjmIbhIYK6lV6KE&s=1780067975&e=43200&v=204341775&i=0.0&sp=0"
   },
   "uzak-sehir-s01e37": {
     "title": "مسلسل المدينة البعيدة الحلقة 37",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/g6ukwqa239qx_,l,n,h,x,.urlset/master.m3u8?t=DK2HZQblxIicX0M3cRM29lkFP7qP5M5FSsw1nrq46Zo&s=1780055872&e=43200&v=204209256&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/g6ukwqa239qx_,l,n,h,x,.urlset/master.m3u8?t=HsUK6TZcv6qY1DYizs7MPTvIyzhdXnHEuIRqgJAI__k&s=1780067986&e=43200&v=204341909&i=0.0&sp=0"
   },
   "uzak-sehir-s01e38": {
     "title": "مسلسل المدينة البعيدة الحلقة 38",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/6b5jt9s9885r_,l,n,h,x,.urlset/master.m3u8?t=rcJcVRHkshnxCn15lU4gel5tqQrETApBR39Ve8uIarc&s=1780055883&e=43200&v=204209377&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/6b5jt9s9885r_,l,n,h,x,.urlset/master.m3u8?t=RNUXMeGj0Bt3CCW35Bw1TJrVe2IMcG25-Vgce1cHocw&s=1780067997&e=43200&v=204342015&i=0.0&sp=0"
   },
   "uzak-sehir-s01e39": {
     "title": "مسلسل المدينة البعيدة الحلقة 39",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/7ljlqd7603la_,l,n,h,x,.urlset/master.m3u8?t=5--8NPVn87avKEaRF48z6up004tihPWGu-7BOr6_fcI&s=1780055894&e=43200&v=204209499&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/7ljlqd7603la_,l,n,h,x,.urlset/master.m3u8?t=Ck6e2vcZ9zkU6MPQL-AQoDG2o_zutYKyREAHhzylCMc&s=1780068009&e=43200&v=204342143&i=0.0&sp=0"
   },
   "uzak-sehir-s01e40": {
     "title": "مسلسل المدينة البعيدة الحلقة 40",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/mhopwdabqy9u_,l,n,h,x,.urlset/master.m3u8?t=hmVkVh6LK_a_92hID6J21cpP-ATHUxcGkvIifPrNYzc&s=1780055905&e=43200&v=204209606&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/mhopwdabqy9u_,l,n,h,x,.urlset/master.m3u8?t=m5NIQva_Fyh3p1dNYsAB0jPNRbGzR-LPe7-4XD40BGo&s=1780068020&e=43200&v=204342280&i=0.0&sp=0"
   },
   "uzak-sehir-s01e41": {
     "title": "مسلسل المدينة البعيدة الحلقة 41",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/cxvtm3k0e01d_,l,n,h,x,.urlset/master.m3u8?t=rsAL5Pyx__Q7eOzgpwE-rP5vFJzbdZ46qqyE3kWb0_4&s=1780055916&e=43200&v=204209705&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/cxvtm3k0e01d_,l,n,h,x,.urlset/master.m3u8?t=SeZtcpKST8RHD_KsvHmvaTvXuWMCAVr9S62ycLddnVc&s=1780068031&e=43200&v=204342408&i=0.0&sp=0"
   },
   "uzak-sehir-s01e42": {
     "title": "مسلسل المدينة البعيدة الحلقة 42",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/8nn95c40hjzv_,l,n,h,x,.urlset/master.m3u8?t=h_hpCn6hff2ATfaHZWe1E5qXpnV07z3tCoLi-KBAbgE&s=1780055927&e=43200&v=204209839&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/8nn95c40hjzv_,l,n,h,x,.urlset/master.m3u8?t=_z9_yTbvyoafk3uGqfChLNesxPxKLqJ85gFXgc2rT0s&s=1780068042&e=43200&v=204342521&i=0.0&sp=0"
   },
   "uzak-sehir-s01e43": {
     "title": "مسلسل المدينة البعيدة الحلقة 43",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/181elzad7jhv_,l,n,h,x,.urlset/master.m3u8?t=SFy2i7t5BtRcEiylmjkB0jLyrb0v7dHZHllaJo4DRwo&s=1780055939&e=43200&v=204209978&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/181elzad7jhv_,l,n,h,x,.urlset/master.m3u8?t=tXzGel9JxKtX9sS3dvxNI-ozu9VQFpQrepjcDoP73cM&s=1780068054&e=43200&v=204342669&i=0.0&sp=0"
   },
   "uzak-sehir-s01e44": {
     "title": "مسلسل المدينة البعيدة الحلقة 44",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/iit8zdjgxkmb_,l,n,h,x,.urlset/master.m3u8?t=JrrPQSUw1MSAYcmfld4_JGcj45ihnmFlSmu-wssyKqY&s=1780055950&e=43200&v=204210103&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/iit8zdjgxkmb_,l,n,h,x,.urlset/master.m3u8?t=LQcboMiPxWTMCzqDafRDzfTj2517JYpLSQqHNyOZKEI&s=1780068065&e=43200&v=204342777&i=0.0&sp=0"
   },
   "uzak-sehir-s01e45": {
     "title": "مسلسل المدينة البعيدة الحلقة 45",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/j4ze4uh9e4pf_,l,n,h,x,.urlset/master.m3u8?t=yIfcljOxtTVyDGZrEg2DeRL9mEbKTBwJsJv1qXj5w30&s=1780055961&e=43200&v=204210232&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/j4ze4uh9e4pf_,l,n,h,x,.urlset/master.m3u8?t=PJAJ4aaCFfP9VfW5kgwns3uMMJ72Rwi8omZKAmbn4Q0&s=1780068076&e=43200&v=204342902&i=0.0&sp=0"
   },
   "uzak-sehir-s01e46": {
     "title": "مسلسل المدينة البعيدة الحلقة 46",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/wpdk9beobetk_,l,n,h,x,.urlset/master.m3u8?t=pKm2M0csA79lxBtx5pptRsv3kWbOGByugtB91KWgTeE&s=1780055972&e=43200&v=204210338&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/wpdk9beobetk_,l,n,h,x,.urlset/master.m3u8?t=in_r7_1AOufTuOlVJ5bBAij2ihQkDpiLdlakteVxvDM&s=1780068087&e=43200&v=204343017&i=0.0&sp=0"
   },
   "uzak-sehir-s01e47": {
     "title": "مسلسل المدينة البعيدة الحلقة 47",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/s5p00ck6bdmj_,l,n,h,x,.urlset/master.m3u8?t=r48fzzt8g9NTQ72eaL0868RxaTPmwl_6QKib6i1mIKY&s=1780055984&e=43200&v=204210451&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/s5p00ck6bdmj_,l,n,h,x,.urlset/master.m3u8?t=eGjkuUjGBC2iuFF-88AIMZ3ico3A9wmu_y9YktURJJ0&s=1780068099&e=43200&v=204343135&i=0.0&sp=0"
   },
   "uzak-sehir-s01e48": {
     "title": "مسلسل المدينة البعيدة الحلقة 48",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/sfk9gn7e0353_,l,n,h,x,.urlset/master.m3u8?t=Yj_C7LA8Dh1TMhJqoFBE8ES1M3PA1iSZYILj6L_Xc6Q&s=1780055995&e=43200&v=204210565&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/sfk9gn7e0353_,l,n,h,x,.urlset/master.m3u8?t=1chjmU8zzIymurg-qcH430p3GQyIVcn3uLGnMvN_DhI&s=1780068110&e=43200&v=204343267&i=0.0&sp=0"
   },
   "uzak-sehir-s01e49": {
     "title": "مسلسل المدينة البعيدة الحلقة 49",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/8l1bxo1a510f_,l,n,h,x,.urlset/master.m3u8?t=UsxValyUEhJqIFuNUDu7C-qS1sXuoPXqQ6DbDzuWoSg&s=1780056006&e=43200&v=204210663&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/8l1bxo1a510f_,l,n,h,x,.urlset/master.m3u8?t=XhkHjd0Udi9fwYzqqbzCD_kNKq_Jhd9fIY9dVFxhAQA&s=1780068121&e=43200&v=204343391&i=0.0&sp=0"
   },
   "uzak-sehir-s01e50": {
     "title": "مسلسل المدينة البعيدة الحلقة 50",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/9mkcevmvz95j_,l,n,h,x,.urlset/master.m3u8?t=lkIiqCL40ytKGto4D06aUTcxefx5iJdtbYSkLG4Gido&s=1780056018&e=43200&v=204210771&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/9mkcevmvz95j_,l,n,h,x,.urlset/master.m3u8?t=CDI1R5LlNX66vh8h6MGBdamXuIB34WklWaaSJu6kxF4&s=1780068132&e=43200&v=204343520&i=0.0&sp=0"
   },
   "uzak-sehir-s01e51": {
     "title": "مسلسل المدينة البعيدة الحلقة 51",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/4iis0viwzecy_,l,n,h,x,.urlset/master.m3u8?t=ePloZtRDVn8XhOZCD0kTzqTiLxsEZ9uEkyHBdQyCTmM&s=1780056029&e=43200&v=204210873&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/4iis0viwzecy_,l,n,h,x,.urlset/master.m3u8?t=_Adlxla8M7poZzL1XtWMWncFAl-23TXMJHGucpSHKlM&s=1780068143&e=43200&v=204343638&i=0.0&sp=0"
   },
   "uzak-sehir-s01e52": {
     "title": "مسلسل المدينة البعيدة الحلقة 52",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jus6ym0ka6du_,l,n,h,x,.urlset/master.m3u8?t=RahNzcSaoofo7fN537xI47VibFO9Tmsl5aIdZOPWmEE&s=1780056040&e=43200&v=204210984&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jus6ym0ka6du_,l,n,h,x,.urlset/master.m3u8?t=QybSC1iuaFErDnXHcAqNqe6nXuUOJ8lRVWpTB7YB4H8&s=1780068155&e=43200&v=204343750&i=0.0&sp=0"
   },
   "uzak-sehir-s01e53": {
     "title": "مسلسل المدينة البعيدة الحلقة 53",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/f4vbwtwzsna9_,l,n,h,x,.urlset/master.m3u8?t=RIZ8O-qcAbqjHQGgoBVgusjUeG9ug65ApjKDJiDyqJs&s=1780056053&e=43200&v=204211110&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/f4vbwtwzsna9_,l,n,h,x,.urlset/master.m3u8?t=IEYL_IWZgmpEuvlT18sWeEZ4ehTvmDTNP5XRYm9jrco&s=1780068168&e=43200&v=204343890&i=0.0&sp=0"
   },
   "uzak-sehir-s01e54": {
     "title": "مسلسل المدينة البعيدة الحلقة 54",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/xx3kll14t9oa_,l,n,h,x,.urlset/master.m3u8?t=vyqQZDxa99Pu3-mb_x4EV5Y977Xp32DWkfSTcdkZSi4&s=1780056064&e=43200&v=204211220&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/xx3kll14t9oa_,l,n,h,x,.urlset/master.m3u8?t=I5ODLLwh-m7kX4x0oxJF8ex9t20PJIn_krIshmHZ1yc&s=1780068180&e=43200&v=204343981&i=0.0&sp=0"
   },
   "uzak-sehir-s01e55": {
     "title": "مسلسل المدينة البعيدة الحلقة 55",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/qfl28qjxkbgs_,l,n,h,x,.urlset/master.m3u8?t=yTE2MwVF2Sv2FX7RBEhh6mO6hTREcTtCKOopgoO0M0s&s=1780056076&e=43200&v=204211321&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/qfl28qjxkbgs_,l,n,h,x,.urlset/master.m3u8?t=8YRy4mYA2Y_lkE4t6E20Cvrfx6b-OktKKNxZfevDoq8&s=1780068191&e=43200&v=204344078&i=0.0&sp=0"
   },
   "uzak-sehir-s01e56": {
     "title": "مسلسل المدينة البعيدة الحلقة 56",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/kg674ssqs6s9_,l,n,h,x,.urlset/master.m3u8?t=SCuClkJmmBeTO5v1GHA5qNcommGXm4DyRC7EBm4ro6w&s=1780056087&e=43200&v=204211424&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/kg674ssqs6s9_,l,n,h,x,.urlset/master.m3u8?t=MAacdDwZ2E-qW-fNv6MxAZdt3WxK6n5jed3SwL4GVcM&s=1780068202&e=43200&v=204344211&i=0.0&sp=0"
   },
   "uzak-sehir-s01e57": {
     "title": "مسلسل المدينة البعيدة الحلقة 57",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/3vctd68zfsun_,l,n,h,x,.urlset/master.m3u8?t=uKpUJYfQ0nMUW2C5Jb79X-6yjc2JH5CP5_IeSPuqQns&s=1780056098&e=43200&v=204211541&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/3vctd68zfsun_,l,n,h,x,.urlset/master.m3u8?t=wTh4_XP9rnF2caaxggYrrC15ZBBYt4UPW5CC1USttew&s=1780068213&e=43200&v=204344334&i=0.0&sp=0"
   },
   "uzak-sehir-s01e58": {
     "title": "مسلسل المدينة البعيدة الحلقة 58",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/zldsqeeaydxf_,l,n,h,x,.urlset/master.m3u8?t=QzNQnYfy2CMA7Hepy-tGCAvj-2MmtsP5vCgx0ZuoXrc&s=1780056112&e=43200&v=204211680&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/zldsqeeaydxf_,l,n,h,x,.urlset/master.m3u8?t=CCLnJDV8FvP5MUVB2y9qtxTUax0PW8BDm1aiWf8VHxI&s=1780068226&e=43200&v=204344482&i=0.0&sp=0"
   },
   "uzak-sehir-s01e59": {
     "title": "مسلسل المدينة البعيدة الحلقة 59",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/u146csbezbw2_,l,n,h,x,.urlset/master.m3u8?t=qZFYbPBw4avNGGfNAj1VCZgof0kdE0vQD1sf1jsmx5o&s=1780056126&e=43200&v=204211833&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/u146csbezbw2_,l,n,h,x,.urlset/master.m3u8?t=hh4TsZBcivltJl8QBg41vcq3xcuzpLETM0l4K5TbTD8&s=1780068240&e=43200&v=204344639&i=0.0&sp=0"
   },
   "uzak-sehir-s01e60": {
     "title": "مسلسل المدينة البعيدة الحلقة 60",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/lzq3zvv5u49w_,l,n,h,x,.urlset/master.m3u8?t=F-Clsz2-yForLrd2jWgqIFSxrZUH7Y9t1wRSW4MX-h4&s=1780056139&e=43200&v=204211964&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/lzq3zvv5u49w_,l,n,h,x,.urlset/master.m3u8?t=Oo0ejmJ-sEVo9xvyxgZV5rdm99NrPdr7XXh5OhBXW1A&s=1780068253&e=43200&v=204344796&i=0.0&sp=0"
   },
   "uzak-sehir-s01e61": {
     "title": "مسلسل المدينة البعيدة الحلقة 61",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/31e2mpk3z86t_,l,n,h,x,.urlset/master.m3u8?t=QolqQzxUDSnvD9T5lF2XfOdkMyITZC0rbE7MeEZoIBQ&s=1780056154&e=43200&v=204212113&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/31e2mpk3z86t_,l,n,h,x,.urlset/master.m3u8?t=2j99hCrct_Oxg9YTCRuFKRVgLz4ronp8FsLa0va0fZ0&s=1780068267&e=43200&v=204344919&i=0.0&sp=0"
   },
   "uzak-sehir-s01e62": {
     "title": "مسلسل المدينة البعيدة الحلقة 62",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jt1a1wbhdzdz_,l,n,h,x,.urlset/master.m3u8?t=cWJ9kS2N_pJI7eL9NU1aiacOP3YCT_lf_DqwZuleEDs&s=1780056167&e=43200&v=204212275&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jt1a1wbhdzdz_,l,n,h,x,.urlset/master.m3u8?t=xV1ONIFZ-BceJdMoiTQqJ9jm8VVjgKJpm-e2iYApEPE&s=1780068281&e=43200&v=204345102&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e01": {
     "title": "مسلسل الطبيب الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/xd43ygd0emqs_,l,n,h,x,.urlset/master.m3u8?t=LO3UB3KI9_dQkp2owI6GjUsHgO9CJK1r-AlBTcPaRZ4&s=1780056181&e=43200&v=204212414&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/xd43ygd0emqs_,l,n,h,x,.urlset/master.m3u8?t=o9fhCuW2mv37ZRfoOIhkJdRexC54N5BrxPZsbtM4pbQ&s=1780068295&e=43200&v=204345270&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e02": {
     "title": "مسلسل الطبيب الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/lx02pf3zbt8g_,l,n,h,x,.urlset/master.m3u8?t=oq-EsEEK18KrJi_3Qzx6TEgXTlrlIPmUE3gCU_k_7DE&s=1780056192&e=43200&v=204212530&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/lx02pf3zbt8g_,l,n,h,x,.urlset/master.m3u8?t=BXp5xDm16oq8giXBt6GeW1DNdmB2_AsYvRiVyG_FwkA&s=1780068306&e=43200&v=204345377&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e03": {
     "title": "مسلسل الطبيب الحلقة 3",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/8d2f67kchq6i_,l,n,h,x,.urlset/master.m3u8?t=46Fq5atHOOlEnARzp5nzzddyfQ9YwDCQzMOuJ_FhOKA&s=1780056203&e=43200&v=204212663&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/8d2f67kchq6i_,l,n,h,x,.urlset/master.m3u8?t=-EnMZ0WOXJK_yZFU77VTEmjMhOx80CeDbrrhnhMESLc&s=1780068318&e=43200&v=204345492&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e04": {
     "title": "مسلسل الطبيب الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/gbf0x55z5thk_,l,n,h,x,.urlset/master.m3u8?t=aKX0WkWIebaACt4js__2k4oy8nCe5BjJZaByJLBeKk8&s=1780056214&e=43200&v=204212790&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/gbf0x55z5thk_,l,n,h,x,.urlset/master.m3u8?t=V-bpeei4sjm8OSjC-sPCBAnTMYUMt5oVvAMCbS7H8Wc&s=1780068329&e=43200&v=204345620&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e05": {
     "title": "مسلسل الطبيب الحلقة 5",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/xvx8iwdjujuq_,l,n,h,x,.urlset/master.m3u8?t=mrFHt2k72Z0J0lqb5RBygdaxF12h9IgXJARdVZ2Tavo&s=1780056225&e=43200&v=204212899&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/xvx8iwdjujuq_,l,n,h,x,.urlset/master.m3u8?t=UTFPt6UAyflU_V8lQTwCvwRcbW03PEtBRSv14tqUSGk&s=1780068340&e=43200&v=204345735&i=0.0&sp=0"
   },
   "doktor-baska-hayatta-2026-s01e06": {
     "title": "مسلسل الطبيب الحلقة 6",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/x4w81q38ga04_,l,n,h,x,.urlset/master.m3u8?t=CGB1m1m67kt5LDOyoiG6z9Fv0CemaUOxx_gsTvbZl7M&s=1780056239&e=43200&v=204213050&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/x4w81q38ga04_,l,n,h,x,.urlset/master.m3u8?t=2wpaSlSE4pLn82dRKnQFfsIi6wj93QPGivVWJPuWCbI&s=1780068354&e=43200&v=204345881&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e01": {
     "title": "مسلسل ورود وذنوب الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/f6qmeig6w2wi_,l,n,h,x,.urlset/master.m3u8?t=WaVNI-Rk-0WZUpR2VtEDysero45Xou-P5QR0DqznWAM&s=1780056252&e=43200&v=204213226&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/f6qmeig6w2wi_,l,n,h,x,.urlset/master.m3u8?t=5OOEztx4iMi3SQqQIEqOsd8qDkhrTuGqN7n-cPtglh0&s=1780068367&e=43200&v=204345996&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e02": {
     "title": "مسلسل ورود وذنوب الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/5wenukonz8u4_,l,n,h,x,.urlset/master.m3u8?t=dIBBAe9d4jDaDnpKnX7PJL6lPDtyerTIpezBOy3d7nw&s=1780056263&e=43200&v=204213345&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/5wenukonz8u4_,l,n,h,x,.urlset/master.m3u8?t=_1HCw6-R4m8nUHCkX_kHMJ69F1J0kQaziBfYQI9CeAU&s=1780068378&e=43200&v=204346100&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e03": {
     "title": "مسلسل ورود وذنوب الحلقة 3",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wjxiviiyu20a_,l,n,h,x,.urlset/master.m3u8?t=jjaNTiE9uaPrWbG9fjAdXxgbm2J2PEVuu_OD5wsezRk&s=1780056275&e=43200&v=204213464&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/wjxiviiyu20a_,l,n,h,x,.urlset/master.m3u8?t=w54REA3HiwrQwSx59zR3Q4Hdcn8OzQ8FmoReyhZsOK4&s=1780068390&e=43200&v=204346231&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e04": {
     "title": "مسلسل ورود وذنوب الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/q6bic64jjcz7_,l,n,h,x,.urlset/master.m3u8?t=fBxLF_GJNVUD_aAfWrBetzYtmx9OSe91R1l3VZwRIQY&s=1780056286&e=43200&v=204213603&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00004/q6bic64jjcz7_,l,n,h,x,.urlset/master.m3u8?t=zcsh9Z8BvAeEy0qVLGUEq70ZReU7Pm91IGJs3xJGlMw&s=1780068401&e=43200&v=204346354&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e05": {
     "title": "مسلسل ورود وذنوب الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/689a0696ndjd_,l,n,h,x,.urlset/master.m3u8?t=PwTdvUHwrbDyVjKT3Fvz-sY-M4gf2BLvkQ_kOVpNqPw&s=1780056297&e=43200&v=204213700&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/689a0696ndjd_,l,n,h,x,.urlset/master.m3u8?t=sij9GUNFQl8KUa1sAr3Ec4iTjzlQ1AbTe8mXKNbpSc8&s=1780068412&e=43200&v=204346495&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e06": {
     "title": "مسلسل ورود وذنوب الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/zp7vxerjsguk_,l,n,h,x,.urlset/master.m3u8?t=UZd4JGSBScGgytSLisibcNiBm8PRr2m4Bblc7ahTJoI&s=1780056308&e=43200&v=204213788&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/zp7vxerjsguk_,l,n,h,x,.urlset/master.m3u8?t=FGJ03xG8C_tG0OqKnUVae6TPUJFKScP7XUtJRQVbH4k&s=1780068423&e=43200&v=204346622&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e07": {
     "title": "مسلسل ورود وذنوب الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/uacu1nkjc3og_,l,n,h,x,.urlset/master.m3u8?t=SW3byhtOl-aiEl-qf6RyWkcAfRE9-jg6SGHktrW4bN4&s=1780056319&e=43200&v=204213901&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/uacu1nkjc3og_,l,n,h,x,.urlset/master.m3u8?t=7qJlB0w5UKFGOD8X4Co6W6Sno-e9Am4SXVx-DSKijLQ&s=1780068434&e=43200&v=204346721&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e08": {
     "title": "مسلسل ورود وذنوب الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/xolgix61ao9l_,l,n,h,x,.urlset/master.m3u8?t=xANvMLpEUigQFiU6iH2VVxF3zIdp3v939YD5qkDxtjs&s=1780056330&e=43200&v=204214003&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/xolgix61ao9l_,l,n,h,x,.urlset/master.m3u8?t=iKJ3nwbMdSLywRDnIJNNf9bnaTYhrVZxP010FXI_HnM&s=1780068446&e=43200&v=204346847&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e09": {
     "title": "مسلسل ورود وذنوب الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/ytaffxql3vn8_,l,n,h,x,.urlset/master.m3u8?t=UHIv75LoUUZHU1F4nkccmRXMFnLSOqrNXKPExd3zv_I&s=1780056341&e=43200&v=204214103&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/ytaffxql3vn8_,l,n,h,x,.urlset/master.m3u8?t=lBxEBkfjisalOON4DNTmT50ZMZkSdemFohvBh6X4OKQ&s=1780068457&e=43200&v=204346975&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e10": {
     "title": "مسلسل ورود وذنوب الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/vgn6o01a4g2j_,l,n,h,x,.urlset/master.m3u8?t=WaciTObJB4vb9zE50VE9tXkyryyrRuw-bzfIchpKvag&s=1780056352&e=43200&v=204214234&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/vgn6o01a4g2j_,l,n,h,x,.urlset/master.m3u8?t=oUaDAfoniwqdFt9-SYG8IOPYWtUqaEq0gsr9BMP7QIw&s=1780068468&e=43200&v=204347092&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e11": {
     "title": "مسلسل ورود وذنوب الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/32ej4y0wxsj6_,l,n,h,x,.urlset/master.m3u8?t=NdEko5PLNb9ol42l8NR_yT4n7c7wynZjy_OSygA93nY&s=1780056363&e=43200&v=204214351&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/32ej4y0wxsj6_,l,n,h,x,.urlset/master.m3u8?t=h9l3aB16vmEVdqjk6R7EQ3mMe4-ed5smNMTcCMkVVMM&s=1780068480&e=43200&v=204347210&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e12": {
     "title": "مسلسل ورود وذنوب الحلقة 12",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/itrr4yi37ijm_,l,n,h,x,.urlset/master.m3u8?t=7409aODcVSCKOhHNiES7MEmifN2kczQDrjSd1vxl1vk&s=1780056374&e=43200&v=204214488&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/itrr4yi37ijm_,l,n,h,x,.urlset/master.m3u8?t=W8Z9GU4q0ZanEEcx_HG8K8tCSU9dOA-QHz1bfTiGMVM&s=1780068491&e=43200&v=204347302&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e13": {
     "title": "مسلسل ورود وذنوب الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/y0q69asyffuh_,l,n,h,x,.urlset/master.m3u8?t=RhN8JpjSHQ5LyIR3W9_LfJMHLIP7KbY3o8CR_9zq4tg&s=1780056385&e=43200&v=204214601&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/y0q69asyffuh_,l,n,h,x,.urlset/master.m3u8?t=1zmNIdmNNIQv4fOXppdFlousmwwt-ALk1VeoyXOQ0Aw&s=1780068502&e=43200&v=204347427&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e14": {
     "title": "مسلسل ورود وذنوب الحلقة 14",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/pu35ojjvlnx1_,l,n,h,x,.urlset/master.m3u8?t=b4iKPYWIbw_UYSWsm5SAqICw5zXa4ZUPjOkLOZ03y6M&s=1780056396&e=43200&v=204214720&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/pu35ojjvlnx1_,l,n,h,x,.urlset/master.m3u8?t=sC4HWNKcF9W9QawqCJfWgOwUkYB9QaD0Cq-xDSDATuE&s=1780068513&e=43200&v=204347550&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e15": {
     "title": "مسلسل ورود وذنوب الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/1a1et6dmoc75_,l,n,h,x,.urlset/master.m3u8?t=xUOAnDfexE7abo-6KLiiF0-aRk2BkHNowQB1W16v7_w&s=1780056408&e=43200&v=204214841&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/1a1et6dmoc75_,l,n,h,x,.urlset/master.m3u8?t=IOo-Wyi56rfCRwg7ruGz6pLrzmCjsoCXrYUEIw8NEdM&s=1780068525&e=43200&v=204347659&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e16": {
     "title": "مسلسل ورود وذنوب الحلقة 16",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/busqaomw3lhr_,l,n,h,x,.urlset/master.m3u8?t=y6bnugVKaiH37-YZeRTYxfOqfge1sMLfb7ex7aL-y2Q&s=1780056419&e=43200&v=204214975&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/busqaomw3lhr_,l,n,h,x,.urlset/master.m3u8?t=-e2F09Q_oofJihx5Se90doNFPuO1vw2Bb3VRGF1g-u4&s=1780068536&e=43200&v=204347777&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e17": {
     "title": "مسلسل ورود وذنوب الحلقة 17",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/hbcqyuhk0nnp_,l,n,h,x,.urlset/master.m3u8?t=yvw11Ph5AnQIlLuJMW0vG2hCe_HprTFd-VMu4ttw_94&s=1780056432&e=43200&v=204215101&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/hbcqyuhk0nnp_,l,n,h,x,.urlset/master.m3u8?t=yRYg_nxUSQsopjIAIXP4jEScA2oS7hHIV_DmaDLDS9g&s=1780068547&e=43200&v=204347885&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e18": {
     "title": "مسلسل ورود وذنوب الحلقة 18",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/e8dlxzsojt22_,l,n,h,x,.urlset/master.m3u8?t=WBenL4utur5XdSSc_S-7IIzF92jNkHC4kR8-8dYNB1c&s=1780056443&e=43200&v=204215216&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/e8dlxzsojt22_,l,n,h,x,.urlset/master.m3u8?t=SRTpbFCKG9iaO2CY3r-ER9Y1OfPWXrT6wugtjVLaUfU&s=1780068558&e=43200&v=204348002&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e19": {
     "title": "مسلسل ورود وذنوب الحلقة 19",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/w10miuwfjwim_,l,n,h,x,.urlset/master.m3u8?t=sbdhu-W_POnr-fz2kTkFMZAZ_3h5UFYoNEXAYm9uGeo&s=1780056453&e=43200&v=204215325&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/w10miuwfjwim_,l,n,h,x,.urlset/master.m3u8?t=5M7xCfDrehs_NOIZ3i37fZ7BZFWzfoNMZ8YmHsqhj0U&s=1780068569&e=43200&v=204348120&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e20": {
     "title": "مسلسل ورود وذنوب الحلقة 20",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/2w04v9rsfhs3_,l,n,h,x,.urlset/master.m3u8?t=rlX7I2SdBWM_DpbcLJNjl_UB0mKTG1n12SVPqq6FTWU&s=1780056468&e=43200&v=204215490&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/2w04v9rsfhs3_,l,n,h,x,.urlset/master.m3u8?t=wIeOCFjTwoWgI1zQ999Kv4s41tN_oeAbrEdg1zdBTFc&s=1780068582&e=43200&v=204348270&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e21": {
     "title": "مسلسل ورود وذنوب الحلقة 21",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/i6ro69kzd4cl_,l,n,h,x,.urlset/master.m3u8?t=OsqB9-MuEZRzmEMGZHRNRlFXEShACG_59EAIEZWUpo4&s=1780056479&e=43200&v=204215603&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/i6ro69kzd4cl_,l,n,h,x,.urlset/master.m3u8?t=RqGwn9WhtA3yqDlvJoBIkjjbtVk6CFatk3t5-t9Gu8w&s=1780068593&e=43200&v=204348428&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e22": {
     "title": "مسلسل ورود وذنوب الحلقة 22",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/a2r38sxzsqq1_,l,n,h,x,.urlset/master.m3u8?t=tBkqf7RRs5v5TqOKptK17Ju3kmDQ577k8WamFLxcWbk&s=1780056490&e=43200&v=204215717&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/a2r38sxzsqq1_,l,n,h,x,.urlset/master.m3u8?t=E0zDnWp8UyVVwvR_T5WI-AmTBPGg9csVNXkPUltgf24&s=1780068605&e=43200&v=204348541&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e23": {
     "title": "مسلسل ورود وذنوب الحلقة 23",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/oqyns4zx633y_,l,n,h,x,.urlset/master.m3u8?t=w7AwSXjD5uitHl93MHfPZey-VHfQdobHcepqQX9Gb2A&s=1780056501&e=43200&v=204215836&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/oqyns4zx633y_,l,n,h,x,.urlset/master.m3u8?t=_gGs8INdllDdX0ilyM2eRyxsS72-acuvAuuBoaGS8dw&s=1780068616&e=43200&v=204348664&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e24": {
     "title": "مسلسل ورود وذنوب الحلقة 24",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/q3x949gjgyjn_,l,n,h,x,.urlset/master.m3u8?t=SYc498qQ0Zdwp1TIrDAKDlwp8REWkCWVdHLCXk3NSCo&s=1780056515&e=43200&v=204215975&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/q3x949gjgyjn_,l,n,h,x,.urlset/master.m3u8?t=IWEcfUgpdjjGWo1J2KjiIoJC2yRgc5mlemvyfZqug_4&s=1780068629&e=43200&v=204348792&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e25": {
     "title": "مسلسل ورود وذنوب الحلقة 25",
-    "url": "https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=2080534270&e=e&n=5849274452005591&aid=yGQxmOSGEeeg%2BRKCk4Wcgw&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=9&emi=zl7g4qb9izcc&i=0&lid=1on5stq7v9dw&lsa=set&mt=0&pbd=1&pbr=1&pgi=1otn8nh1eyv1&ph=0&pii=0&pl=719&plc=1&pli=jxei9w1n4ann&pp=hlsjs&ppm=VOD&prc=1&ps=3&pss=1&pt=&pu=https%3A%2F%2Fcdnplus.cyou%2Fembed-nm3okpcbff7q.html&pv=8.34.5&pyc=0&s=0&sdk=0&ss=1&stc=1&stpe=0&t=G%C3%BCller%20ve%20G%C3%BCnahlar%202025%20S01E25&tv=4.0.14&vb=1&vi=1&vl=90&wd=1280&ab=0&cae=0&cb=1&cdid=vplayer&cme=0&dd=1&flc=0&fv=&ga=0&mk=hls&mu=https%3A%2F%2Falbrq-cdn1-lcd.cdnz.online%2Fhls2%2F02%2F00005%2Fnm3okpcbff7q_%2Cl%2Cn%2Ch%2Cx%2C.urlset%2Fmaster.m3u8%3Ft%3DouabFT07Q5tIDJBNOnOBNQa5fLna64iOGuJFctPJbrA%26s%3D1780056528%26e%3D43200%26v%3D204216095%26i%3D0.0%26sp%3D0&pbc=1&pd=3&pdr=&plng=en-US&plt=500&pni=0&po=1&sp=0&st=120&sa=1780056529266"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/nm3okpcbff7q_,l,n,h,x,.urlset/master.m3u8?t=46L6bqeQgZSNHvV5X4PtXAKVGUWM-uQmFTqcnSqZCwM&s=1780068642&e=43200&v=204348936&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e26": {
     "title": "مسلسل ورود وذنوب الحلقة 26",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/vi1rdiljc1jn_,l,n,h,x,.urlset/master.m3u8?t=Nca-G4qCwGnujrkSEWHOmuLKwXR-RJ4YDFJGcL_zubY&s=1780056542&e=43200&v=204216224&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/vi1rdiljc1jn_,l,n,h,x,.urlset/master.m3u8?t=ArKXr4UGvWLe_S9P5itZmHtpbAr_WoRMUwYiA7GDHlM&s=1780068656&e=43200&v=204349068&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e27": {
     "title": "مسلسل ورود وذنوب الحلقة 27",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/jzvlhng9ikqc_,l,n,h,x,.urlset/master.m3u8?t=oXEeJ09vqv1Q6S-RJq5dzlPp1pxsl62GyDWl_kiaDO8&s=1780056555&e=43200&v=204216382&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/jzvlhng9ikqc_,l,n,h,x,.urlset/master.m3u8?t=nvGV99b8yED5SNNE3BkpeoR39FF11HEXJo32KEnxkz4&s=1780068669&e=43200&v=204349201&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e28": {
     "title": "مسلسل ورود وذنوب الحلقة 28",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/hj60rjlkk5vp_,l,n,h,x,.urlset/master.m3u8?t=OkKcNVXIxn1unkt-saY_PKodiTU9NLI_0xXOLjUXxqM&s=1780056566&e=43200&v=204216518&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/hj60rjlkk5vp_,l,n,h,x,.urlset/master.m3u8?t=fzuL88KUOxxL7pk5ZjVPf3gh_puMrh1btluJ3zoLR0k&s=1780068680&e=43200&v=204349319&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e29": {
     "title": "مسلسل ورود وذنوب الحلقة 29",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/4fgbv76k6q58_,l,n,h,x,.urlset/master.m3u8?t=mM7O6ibxG6HDmZyZ8UdMMiDnKION6dydYNi1YKAjqXg&s=1780056579&e=43200&v=204216668&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/4fgbv76k6q58_,l,n,h,x,.urlset/master.m3u8?t=7hvS8WHIHBRk9XtDgrgogtTfuv0schnfOX2X67Bfajk&s=1780068694&e=43200&v=204349430&i=0.0&sp=0"
   },
   "guller-ve-gunahlar-2025-s01e30": {
     "title": "مسلسل ورود وذنوب الحلقة 30",
-    "url": "https://hls18-brq-y4s.cdnz.online/hls2/02/00005/ifw4gkbmtnmk_,l,n,h,x,.urlset/master.m3u8?t=U2KHbitKH_LU3wMCo47OU8JQOSSDYcMUwDtgUYSbsF0&s=1780056593&e=43200&v=204216806&srv=hls18-brq-e14u&i=0.0&sp=0"
+    "url": "https://hls18-brq-y4s.cdnz.online/hls2/02/00005/ifw4gkbmtnmk_,l,n,h,x,.urlset/master.m3u8?t=1d1gvFJ2j2A4LByanPA6txmB85rcm7lB6A88YNFt228&s=1780068707&e=43200&v=204349552&srv=hls18-brq-e14u&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e01": {
     "title": "مسلسل الخليفة الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/hht1ahjjkyo5_,l,n,h,x,.urlset/master.m3u8?t=lQbjrJQxgQy3JFWmmxgfDVdSN8lcqJF8cdRrISRnk4o&s=1780056606&e=43200&v=204216956&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/hht1ahjjkyo5_,l,n,h,x,.urlset/master.m3u8?t=538803GNcjmcfCaeVgx_olA_YQ2b9utJYDFntuXdBDY&s=1780068720&e=43200&v=204349697&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e02": {
     "title": "مسلسل الخليفة الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/o7gv94r21zep_,l,n,h,x,.urlset/master.m3u8?t=S_DXlvCJB7IM1abv4zwVCWHuWwQnZ1Ve8ZzE0hpbkSg&s=1780056617&e=43200&v=204217091&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/o7gv94r21zep_,l,n,h,x,.urlset/master.m3u8?t=Evhl88iPadyqJqLhQzyoBEcwKxk0hCRl47oU_Oe-8XU&s=1780068731&e=43200&v=204349811&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e03": {
     "title": "مسلسل الخليفة الحلقة 3",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/280g3yx87n4o_,l,n,h,x,.urlset/master.m3u8?t=f2UtJS6EyexQ4Xzd9Nx4UnNprFG4QOllY3SzjTN27_Y&s=1780056629&e=43200&v=204217200&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/280g3yx87n4o_,l,n,h,x,.urlset/master.m3u8?t=8XtmDszKuFTD4Bm39oti7TGpudXdba1NFR3AyeQDQKo&s=1780068742&e=43200&v=204349936&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e04": {
     "title": "مسلسل الخليفة الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/zty1i6pp53dt_,l,n,h,x,.urlset/master.m3u8?t=kPS5OrKj1o69cxx1IWLlKmX3wQo7tp8FsmSpIvFXkgo&s=1780056641&e=43200&v=204217354&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/zty1i6pp53dt_,l,n,h,x,.urlset/master.m3u8?t=nqf1TEV6mNyykh_bd8hp5Hhkul5DfG4jqcRRuhBRsdo&s=1780068753&e=43200&v=204350064&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e05": {
     "title": "مسلسل الخليفة الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/ock1bb48p0bc_,l,n,h,x,.urlset/master.m3u8?t=S8jOAKTcU7e3aj45JhX4R1YHBcBBTP1nVORN6LkrrB4&s=1780056652&e=43200&v=204217489&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/ock1bb48p0bc_,l,n,h,x,.urlset/master.m3u8?t=RJX3QIJGhe_ivvHecLcDNPLzeCWKMgkIFCLmyaLvRPs&s=1780068764&e=43200&v=204350187&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e06": {
     "title": "مسلسل الخليفة الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/qccgb2vtv9lo_,l,n,h,x,.urlset/master.m3u8?t=UFgdtMZFO8JwmsGxUnLgW7f7fIrWZwmdbW-nw8YqEa8&s=1780056663&e=43200&v=204217610&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/qccgb2vtv9lo_,l,n,h,x,.urlset/master.m3u8?t=nSyAffvEIaBCR4DtVGu_IGNafLFoeiU-vJr5g2b05cA&s=1780068775&e=43200&v=204350318&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e07": {
     "title": "مسلسل الخليفة الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/uej5whqgihip_,l,n,h,x,.urlset/master.m3u8?t=crDoUtIoc2Swnsem88boRG5yztWbu_hmreGAJL6LvZ4&s=1780056674&e=43200&v=204217730&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/uej5whqgihip_,l,n,h,x,.urlset/master.m3u8?t=245MLY1UV2NdCjgN1czdTMsg4gZ3I0IXLKxNO4RNce4&s=1780068786&e=43200&v=204350429&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e08": {
     "title": "مسلسل الخليفة الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/ofo93mlxynlh_,l,n,h,x,.urlset/master.m3u8?t=I_ItXlBwcJve-cVEh2Kth6lYR3Ez_HPF6bHVGORNKyU&s=1780056685&e=43200&v=204217838&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/ofo93mlxynlh_,l,n,h,x,.urlset/master.m3u8?t=4yS9e2HQs4u1pfNl0F1nzZGGAcawzoSFmwfLfnwyl-c&s=1780068797&e=43200&v=204350540&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e09": {
     "title": "مسلسل الخليفة الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/3g1bby4dr6vd_,l,n,h,x,.urlset/master.m3u8?t=EUiWHpi4OHHgtPi2AgwSe5XF60pVn2VsGZUd2uVzgyA&s=1780056696&e=43200&v=204217952&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/3g1bby4dr6vd_,l,n,h,x,.urlset/master.m3u8?t=Ambw2-A-qt1YEoOse1HKDNs5yu_-IRzGvaEY3vGOG_g&s=1780068808&e=43200&v=204350654&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e10": {
     "title": "مسلسل الخليفة الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/rnhfs96rfo4o_,l,n,h,x,.urlset/master.m3u8?t=vnoxkyYMzIt2y1U9DOPs-WpwkgYbWs0-lOlVvKZhSUQ&s=1780056707&e=43200&v=204218076&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/rnhfs96rfo4o_,l,n,h,x,.urlset/master.m3u8?t=sSF_Pc0Iazl-uTIBphD4efNu-qmNvhKhOsHULfjSSB0&s=1780068819&e=43200&v=204350781&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e11": {
     "title": "مسلسل الخليفة الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/0z670p1e4sfd_,l,n,h,x,.urlset/master.m3u8?t=1Utjz6sPnoG-zRxIldQoPT5HnCHIU_6UivHtahrRiSI&s=1780056718&e=43200&v=204218181&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/0z670p1e4sfd_,l,n,h,x,.urlset/master.m3u8?t=C2b5NS2C6elzntRSRX0BU4IdUaoN2kZSeV8MDfRy-y0&s=1780068830&e=43200&v=204350905&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e12": {
     "title": "مسلسل الخليفة الحلقة 12",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/dswoxdnpe3sf_,l,n,h,x,.urlset/master.m3u8?t=6meFQ5YGa_TjJF9XV_mFEdEu8_Ag_fcjrZ2LRnoT4fo&s=1780056729&e=43200&v=204218280&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/dswoxdnpe3sf_,l,n,h,x,.urlset/master.m3u8?t=aLyT3uJKmoDdif3nPyTMwTED3cHjLvAU5Ph5G0wO9YM&s=1780068841&e=43200&v=204351000&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e13": {
     "title": "مسلسل الخليفة الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/w59jgaybc8gy_,l,n,h,x,.urlset/master.m3u8?t=52IAJM1culwqIE5wrk1NI7gv0jb0hf4SJbNRewx91fA&s=1780056740&e=43200&v=204218402&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/w59jgaybc8gy_,l,n,h,x,.urlset/master.m3u8?t=zN1z6nOd4dBiPIxw_YI5U9--XPfKn7kD3DbtgoErPz8&s=1780068852&e=43200&v=204351112&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e14": {
     "title": "مسلسل الخليفة الحلقة 14",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/g1nyyqo7zkgd_,l,n,h,x,.urlset/master.m3u8?t=rRklQWrLyX8dECA7fCwGjxztX_NeftK9xIGMDbPZayw&s=1780056751&e=43200&v=204218515&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00005/g1nyyqo7zkgd_,l,n,h,x,.urlset/master.m3u8?t=AruOGAdHTxdSQ-fMb4PJfeAoqEWe7r0L_8AGzi-5tyo&s=1780068863&e=43200&v=204351210&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e15": {
     "title": "مسلسل الخليفة الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/4colxcbg8dcx_,l,n,h,x,.urlset/master.m3u8?t=dKVhm6BAF88x5QmEW8jbLdhhvNLn1HRxS34WTGqZYrc&s=1780056762&e=43200&v=204218629&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/4colxcbg8dcx_,l,n,h,x,.urlset/master.m3u8?t=7ym0wog3Edo0TGhuLfTyK920rIZ8dzUyEjMmZiBURiM&s=1780068874&e=43200&v=204351330&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e16": {
     "title": "مسلسل الخليفة الحلقة 16",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/fkg24td2hfdt_,l,n,h,x,.urlset/master.m3u8?t=VMVINV9jQlxYLG7GbeoRAc_yeJLkge5RPgTXA5cFvpc&s=1780056773&e=43200&v=204218731&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/07/00005/fkg24td2hfdt_,l,n,h,x,.urlset/master.m3u8?t=qdoSKfsAEbtSQtsjCjSYqXRsJF8S2uYRDolZ1zt1iyg&s=1780068885&e=43200&v=204351420&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e17": {
     "title": "مسلسل الخليفة الحلقة 17",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/no7iqcg6nw02_,l,n,h,x,.urlset/master.m3u8?t=HkIuXyVhml0Um0NbvkhSuB8x_1xwgdDJU2cRzGKOwok&s=1780056784&e=43200&v=204218841&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/no7iqcg6nw02_,l,n,h,x,.urlset/master.m3u8?t=vq9PFByDYcKZ6FcAPYc5Ax3kwgNCEIjbl-Gy8NcTs0M&s=1780068896&e=43200&v=204351530&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e18": {
     "title": "مسلسل الخليفة الحلقة 18",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/rrsctld2515t_,l,n,h,x,.urlset/master.m3u8?t=F7N3Rxhw0bPtJOhI-HAep_9yKp6G6RsCIvFjzHr67A8&s=1780056795&e=43200&v=204218951&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/rrsctld2515t_,l,n,h,x,.urlset/master.m3u8?t=nT6hT41qz57Ae5dvZIyb-_yNtbR08PWl8Cxx-RziJNU&s=1780068907&e=43200&v=204351650&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e19": {
     "title": "مسلسل الخليفة الحلقة 19",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/3s66cbrr5qya_,l,n,h,x,.urlset/master.m3u8?t=eqpV67Btkpivtbhona6a59-9WiUtfGWTf8PD0egSkns&s=1780056806&e=43200&v=204219087&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00005/3s66cbrr5qya_,l,n,h,x,.urlset/master.m3u8?t=K3sJTjS8Ac8MB-ogGjLCI7dXpPvX-MSN-74694a0CxI&s=1780068918&e=43200&v=204351759&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e20": {
     "title": "مسلسل الخليفة الحلقة 20",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/954p4bv6ftyc_,l,n,h,x,.urlset/master.m3u8?t=yFdII_DdJHUb6Si3razsCz5byL9fVOl7g2BJKnT6wKQ&s=1780056817&e=43200&v=204219219&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/954p4bv6ftyc_,l,n,h,x,.urlset/master.m3u8?t=5vhjqOkygZfobxWCozuXCCmZ32K4djSXJlVvigqEaPE&s=1780068929&e=43200&v=204351876&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e21": {
     "title": "مسلسل الخليفة الحلقة 21",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/ieegz6xtwdku_,l,n,h,x,.urlset/master.m3u8?t=Eo3B878CWmRy4f67lGqLprtYlWzu0V9LwzKTOsvCsro&s=1780056828&e=43200&v=204219346&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/ieegz6xtwdku_,l,n,h,x,.urlset/master.m3u8?t=l24-UwIs3E82keePo7129Q_0sXGp62NjP44ReDnoXaU&s=1780068941&e=43200&v=204351992&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e22": {
     "title": "مسلسل الخليفة الحلقة 22",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/t9b71b9copdf_,l,n,h,x,.urlset/master.m3u8?t=ULT99gto4VnSI-QlpXpXaM-XwHi63i8_DlxhXuMlEak&s=1780056840&e=43200&v=204219471&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/t9b71b9copdf_,l,n,h,x,.urlset/master.m3u8?t=bBqUZTJwtw7oHq6Evb_nugHjCE1ybB42O6Au0KYS-GU&s=1780068952&e=43200&v=204352114&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e23": {
     "title": "مسلسل الخليفة الحلقة 23",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/mld9huswq9x0_,l,n,h,x,.urlset/master.m3u8?t=7cgZMYWF1xKi6cX3xP0fS4D0bFS5wY80fQ72YZqUYcI&s=1780056851&e=43200&v=204219586&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/mld9huswq9x0_,l,n,h,x,.urlset/master.m3u8?t=s6EN6Wth1L1EZfK44H_SWBuzh37C6vI80UiBbq3nIaQ&s=1780068963&e=43200&v=204352216&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e24": {
     "title": "مسلسل الخليفة الحلقة 24",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/w41i0oaddick_,l,n,h,x,.urlset/master.m3u8?t=a33S2yt2GmtloWllG6vR5diWvi8nBdBeQjj4fsHBXG0&s=1780056862&e=43200&v=204219705&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/w41i0oaddick_,l,n,h,x,.urlset/master.m3u8?t=Z2oG-d0v6MWdljq2Cs5dz7_3TgXlGiLJjs1RSUmBxAo&s=1780068974&e=43200&v=204352327&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e25": {
     "title": "مسلسل الخليفة الحلقة 25",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/d3gwqracvr6z_,l,n,h,x,.urlset/master.m3u8?t=T50OYTTmQ73NIdp3x196LkeKm5kAgTKZipEOGhPyJ0U&s=1780056872&e=43200&v=204219811&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/d3gwqracvr6z_,l,n,h,x,.urlset/master.m3u8?t=kB7cUiqfWRWOxeSSHDP6HWHGVE5zvAVp5SSx1LbpOGE&s=1780068986&e=43200&v=204352430&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e26": {
     "title": "مسلسل الخليفة الحلقة 26",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/06xjveujeng8_,l,n,h,x,.urlset/master.m3u8?t=d35kQbJ6F7zkU-HtFKk6X_NHr9DJupPICcKmN7V_LTg&s=1780056883&e=43200&v=204219925&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/06xjveujeng8_,l,n,h,x,.urlset/master.m3u8?t=_Zi5E1EgGKUS-b8Ieh8t0MMuBrHBCnmmdhRa5wUaCp8&s=1780068997&e=43200&v=204352535&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e27": {
     "title": "مسلسل الخليفة الحلقة 27",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/1bjj9yprjuk8_,l,n,h,x,.urlset/master.m3u8?t=fpjoM7UkwLGlS5GUMGACYolm11r3n1XJQw4R8tFBcME&s=1780056894&e=43200&v=204220030&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/1bjj9yprjuk8_,l,n,h,x,.urlset/master.m3u8?t=9dg359w9GxzDJr7zE7aMyfUK6iSOnDfdvgP0yofobro&s=1780069008&e=43200&v=204352635&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e28": {
     "title": "مسلسل الخليفة الحلقة 28",
-    "url": "https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1923586954&e=e&n=3775575514948920&aid=yGQxmOSGEeeg%2BRKCk4Wcgw&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=9&emi=1buw59yg8fmu&i=0&lid=v01wbxnq3ahj&lsa=set&mt=0&pbd=1&pbr=1&pgi=1rwdc1v6ynq1&ph=0&pii=0&pl=719&plc=1&pli=vv2cs81xtgmm&pp=hlsjs&ppm=VOD&prc=1&ps=3&pss=1&pt=&pu=https%3A%2F%2Fcdnplus.cyou%2Fembed-j1mbspz7j3ud.html&pv=8.34.5&pyc=0&s=0&sdk=0&ss=1&stc=1&stpe=0&t=Halef%20K%C3%B6klerin%20%C3%87jw%C4%9Fon%C4%B1s%C4%B1%202025%20S01E28&tv=4.0.14&vb=1&vi=1&vl=90&wd=1280&ab=0&cae=0&cb=1&cdid=vplayer&cme=0&dd=1&flc=0&fv=&ga=0&mk=hls&mu=https%3A%2F%2Falbrq-cdn1-lcd.cdnz.online%2Fhls2%2F02%2F00005%2Fj1mbspz7j3ud_%2Cl%2Cn%2Ch%2Cx%2C.urlset%2Fmaster.m3u8%3Ft%3D2S94Cm7uA8j5ZGki1gf5Kith4WAHMt7t_2WSA3dxHn8%26s%3D1780056907%26e%3D43200%26v%3D204220170%26i%3D0.0%26sp%3D0&pbc=1&pd=3&pdr=&plng=en-US&plt=400&pni=0&po=1&sp=0&st=120&sa=1780056908115"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/j1mbspz7j3ud_,l,n,h,x,.urlset/master.m3u8?t=aP0gB7ovg9LI3wZlVVhzwrYysnuA952gcMhbc6NlBwU&s=1780069021&e=43200&v=204352775&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e29": {
     "title": "مسلسل الخليفة الحلقة 29",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/1e2a9hct3myg_,l,n,h,x,.urlset/master.m3u8?t=94R8Idt86YYVLD5k1t0QZ2bPyMn12G6PmwWX3RpSz30&s=1780056920&e=43200&v=204220321&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/1e2a9hct3myg_,l,n,h,x,.urlset/master.m3u8?t=7xMAbF0U-0-sWxe3KLIsWVjn4eR9zRFDK3awawXcaR0&s=1780069034&e=43200&v=204352914&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e30": {
     "title": "مسلسل الخليفة الحلقة 30",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/6g3urb1vb9x5_,l,n,h,x,.urlset/master.m3u8?t=3Q7AxCdYTRyZ3Ye9K4a7AlXai0JdpoAvuU2DpMpetBI&s=1780056933&e=43200&v=204220459&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/6g3urb1vb9x5_,l,n,h,x,.urlset/master.m3u8?t=XRHrfE6V8przmgSjCMooVkwTCo0cgToc89losFqvNPo&s=1780069047&e=43200&v=204353053&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e31": {
     "title": "مسلسل الخليفة الحلقة 31",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jkxdp76mv82l_,l,n,h,x,.urlset/master.m3u8?t=b7gzq4k7HgEjZeVi2BjnRBwZpzwVls6ZYWHkbQqOidw&s=1780056947&e=43200&v=204220582&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/jkxdp76mv82l_,l,n,h,x,.urlset/master.m3u8?t=xtzBszF346lzThqRcQLumDWEe4qZ4DSN3uLynsLzgXw&s=1780069061&e=43200&v=204353190&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e32": {
     "title": "مسلسل الخليفة الحلقة 32",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/1cew552g53f8_,l,n,h,x,.urlset/master.m3u8?t=ygnjcWD-eIvyn2Qm-q9wTXCeSzJiF9PQH8RmzNuk6uk&s=1780056960&e=43200&v=204220744&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/1cew552g53f8_,l,n,h,x,.urlset/master.m3u8?t=MMc_j7iWZj4ofm_-3y44C12Ujz78k_8jA167wHkqdlc&s=1780069074&e=43200&v=204353347&i=0.0&sp=0"
   },
   "halef-koklerin-cagrisi-2025-s01e33": {
     "title": "مسلسل الخليفة الحلقة 33",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ju78ych41vl5_,l,n,h,x,.urlset/master.m3u8?t=YX6udiV5ZvLmo9rgWk_09JRpHakCn-jJvb2LHueE7VA&s=1780056971&e=43200&v=204220877&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/ju78ych41vl5_,l,n,h,x,.urlset/master.m3u8?t=rwWhQO3lV2Ec7M4mmXs4UWBkDtJps7pZqV67fuEG4zs&s=1780069085&e=43200&v=204353472&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e01": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 1",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/hgckuc0ptve5_,l,n,h,x,.urlset/master.m3u8?t=5pmDsqDI87mqhx6l4-NrbxFjsNBywFX61NLs4AlHlPQ&s=1780056982&e=43200&v=204220998&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/06/00004/hgckuc0ptve5_,l,n,h,x,.urlset/master.m3u8?t=A3SChPOvulMX329a3y_co3w2dC7r7GQOTHCCfCMBM9g&s=1780069096&e=43200&v=204353572&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e02": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 2",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/xkqo5kiv0s4j_,l,n,h,x,.urlset/master.m3u8?t=k5O38wm2Iz_0wk8ig9mV2lsPJ-dCJbjSxv8MZ71YWWY&s=1780056993&e=43200&v=204221102&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/xkqo5kiv0s4j_,l,n,h,x,.urlset/master.m3u8?t=blAVQgKGs8gIe06dn7p5vqNdly8eJOr-pTVzvKaUlFA&s=1780069107&e=43200&v=204353670&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e03": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 3",
-    "url": "https://hls18-brq-y4s.cdnz.online/hls2/01/00005/v7i2au8qltb2_,l,n,h,x,.urlset/master.m3u8?t=OXAqViuQIlBpv5Nfkp_NAXROa5xkHYD4ED0uXEMy8io&s=1780057004&e=43200&v=204221205&srv=hls18-brq-e14u&i=0.0&sp=0"
+    "url": "https://hls18-brq-y4s.cdnz.online/hls2/01/00005/v7i2au8qltb2_,l,n,h,x,.urlset/master.m3u8?t=QRSQgPoX6ZLlO35Tz5m_uaMwS01CVhBgsHD2ueXb3zc&s=1780069118&e=43200&v=204353794&srv=hls18-brq-e14u&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e04": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 4",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/5yro318lfrog_,l,n,h,x,.urlset/master.m3u8?t=xasAPLFwdQnSrevfDyhZmWPN9SFr5rh0QIRWWMw8338&s=1780057018&e=43200&v=204221333&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/5yro318lfrog_,l,n,h,x,.urlset/master.m3u8?t=Iw0uVgx2hwv5H08K6539Ev8tYRQ7MYxt7Xze-WnBHM0&s=1780069131&e=43200&v=204353916&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e05": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 5",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/nyxrf05qj102_,l,n,h,x,.urlset/master.m3u8?t=HOLWP6RdjHgjJrBWh_i1mbXjVXaX8fgSwqA-YFLyph4&s=1780057029&e=43200&v=204221452&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00004/nyxrf05qj102_,l,n,h,x,.urlset/master.m3u8?t=PtAiGC1UTOfYtUvjV59aZrLPNxlG8ohkfyQHDu1MLDI&s=1780069143&e=43200&v=204354025&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e06": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 6",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/26cs3oz6o1xj_,l,n,h,x,.urlset/master.m3u8?t=8_MZKmTAf9d7lrcEv7EN3RYcUcMeTadaXcSQk0ufTs0&s=1780057041&e=43200&v=204221574&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/05/00004/26cs3oz6o1xj_,l,n,h,x,.urlset/master.m3u8?t=Qc4DNh-AOUblkJxt2UjGkCVANqzN-dNH7Qo_uHPyt9o&s=1780069154&e=43200&v=204354159&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e07": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 7",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/k1cbm4hozigk_,l,n,h,x,.urlset/master.m3u8?t=XBwAdFuz2AgetLy-zamsEhg_r8akSEZa0CR7FNcku5k&s=1780057052&e=43200&v=204221700&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/k1cbm4hozigk_,l,n,h,x,.urlset/master.m3u8?t=2PUFbz2njl9P1euv4WKGcn1UhmBV8vfBpUotbMePsaM&s=1780069165&e=43200&v=204354273&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e08": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 8",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/t7taoc1j3lht_,l,n,h,x,.urlset/master.m3u8?t=Fw0tOS2XUxeXKn_BKxASuaun-PEtZC_3c7CtL7-9hIw&s=1780057063&e=43200&v=204221835&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00004/t7taoc1j3lht_,l,n,h,x,.urlset/master.m3u8?t=UXQPU904M8PCTgkrCoZPUs6O45_4kDAbI4vpHLS_Tdg&s=1780069176&e=43200&v=204354388&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e09": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 9",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/gkk2tsnw8ktq_,l,n,h,x,.urlset/master.m3u8?t=RA2d9a4KYIkgrxMOtpUwb-ig8migb8XQYqsJ7i1QASU&s=1780057074&e=43200&v=204221967&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00004/gkk2tsnw8ktq_,l,n,h,x,.urlset/master.m3u8?t=ROzZC4JQUuI5hAe2iwIZoMNb2ynIikSb17X0_PjHs34&s=1780069187&e=43200&v=204354491&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e10": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 10",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/imlke19gt9jb_,l,n,h,x,.urlset/master.m3u8?t=kM7vb26w1svIm__aZBj8Nb-jF0CKGvdRaLDcBGYftkM&s=1780057085&e=43200&v=204222083&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/imlke19gt9jb_,l,n,h,x,.urlset/master.m3u8?t=VH-LKAK9cvE80KGinr0XdYAOAjjzdx3nUNtzJ4zTGJo&s=1780069198&e=43200&v=204354590&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e11": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 11",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/osgjv9mo596l_,l,n,h,x,.urlset/master.m3u8?t=tIrwWzZaEBFsY_TSJfYaXTJUq6nd31icmEKz2NjVmUc&s=1780057096&e=43200&v=204222207&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/osgjv9mo596l_,l,n,h,x,.urlset/master.m3u8?t=hPG9CTtXmtNpxQRRjM67z8Z6JI-yqymLFVaHG3JdDEM&s=1780069209&e=43200&v=204354713&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e12": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 12",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/gsidrnqsne10_,l,n,h,x,.urlset/master.m3u8?t=-TcXFjqlHpMN4GtCeliCNiF-7mWw-_CFc6z5G05T8ac&s=1780057108&e=43200&v=204222322&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/gsidrnqsne10_,l,n,h,x,.urlset/master.m3u8?t=XGRc4TpYReo9tjknSDFgq6_3uqBc2_PIahTZ6PDSr6I&s=1780069221&e=43200&v=204354851&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e13": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 13",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/aa665lyvpat1_,l,n,h,x,.urlset/master.m3u8?t=REKSRIRMrSbRWLD8BoWeARKTqXRmsm0f1-o4FVJ0wSA&s=1780057119&e=43200&v=204222431&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/aa665lyvpat1_,l,n,h,x,.urlset/master.m3u8?t=7JuIf1L7q9jR936fI-vd1Jrtk89hoew1nGkd7-QZqDg&s=1780069233&e=43200&v=204354955&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e14": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 14",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/m4rua9l3k79w_,l,n,h,x,.urlset/master.m3u8?t=NNuLO-vlo-EPUX9ViKecR4V9DYF0cDu20aJDoPmjsWM&s=1780057130&e=43200&v=204222536&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/m4rua9l3k79w_,l,n,h,x,.urlset/master.m3u8?t=kM_wTlbAiMVJDBm78NF3a3hngTkZuSeDMdnlfIK_elg&s=1780069244&e=43200&v=204355071&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e15": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 15",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/hvs1f6astyxi_,l,n,h,x,.urlset/master.m3u8?t=Fx0jBiPcEFd34Jm3Y8RD5KN9yVb9JT61yNfKkiHpybE&s=1780057141&e=43200&v=204222636&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/hvs1f6astyxi_,l,n,h,x,.urlset/master.m3u8?t=0eqsgqdKVR1y1-2gF-PzqKH1QjsA0jFOMjF_kGF2zko&s=1780069255&e=43200&v=204355165&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e16": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 16",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/n1yb7sv55g02_,l,n,h,x,.urlset/master.m3u8?t=IILyLMJGF9S-yFGP3AZxssH7f5jEKgpBj89eYFtegKs&s=1780057152&e=43200&v=204222743&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/n1yb7sv55g02_,l,n,h,x,.urlset/master.m3u8?t=6Jq0ipsuYiRVlMLLqRN_42D6wfiq6r3rcnseg9oaP38&s=1780069266&e=43200&v=204355260&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e17": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 17",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/2yla9mlc7xnn_,l,n,h,x,.urlset/master.m3u8?t=0-bYeYOTXWR8Mh30jI4WENT-1f-oirHo4o3JL2DhNwc&s=1780057163&e=43200&v=204222835&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/08/00005/2yla9mlc7xnn_,l,n,h,x,.urlset/master.m3u8?t=HRy1EBXLrXrFmGJKoyNJjiVU-r3oXaM__P3WZoXIdbI&s=1780069277&e=43200&v=204355391&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e18": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 18",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/6z04s0i7jx66_,l,n,h,x,.urlset/master.m3u8?t=kUFtOq45CnPVHvj04qqi0ld4gPfXoJZ71bDmSdESQU0&s=1780057174&e=43200&v=204222944&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/6z04s0i7jx66_,l,n,h,x,.urlset/master.m3u8?t=hZ1Yi4QBmZXMhjrSmacYvPCkpLj-Pa47h9s9hpAExWg&s=1780069288&e=43200&v=204355501&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e19": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 19",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/u8id6vdg7nbh_,l,n,h,x,.urlset/master.m3u8?t=BS8y06VUk5hg72gZG5gbvyZNwUQcAuE0O7HF_2UqcwQ&s=1780057186&e=43200&v=204223055&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/03/00005/u8id6vdg7nbh_,l,n,h,x,.urlset/master.m3u8?t=GQEPFu2P07NIz4oxAyNLmgXxPAI69aRzECir6rOacyc&s=1780069299&e=43200&v=204355599&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e20": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 20",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/hewq7odj2yab_,l,n,h,x,.urlset/master.m3u8?t=wuR3P21A8T9n8WoFznbhFdxXhkGaB9kAwg2UmE5GFwo&s=1780057197&e=43200&v=204223165&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/hewq7odj2yab_,l,n,h,x,.urlset/master.m3u8?t=7lMsViGKKwBkw4ufEeee7Bkl2K8esWSCqw0fyjYslAk&s=1780069310&e=43200&v=204355708&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e21": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 21",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/fgh7bjm28xbf_,l,n,h,x,.urlset/master.m3u8?t=E2OcjnPlczuN_pTphpFCS7rLlwu_ej2TFVahi2hQqf8&s=1780057208&e=43200&v=204223290&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/fgh7bjm28xbf_,l,n,h,x,.urlset/master.m3u8?t=HZIRVVcjLMnp9Yy9NePOk2IzKGivCQIk6dZDKu1oL1s&s=1780069322&e=43200&v=204355810&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e22": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 22",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/08k8ls3ryjbf_,l,n,h,x,.urlset/master.m3u8?t=KQK8gVdvACI4OZv_5RnLWGHeFSmuWv8VaKR8mnrBOAo&s=1780057219&e=43200&v=204223388&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/01/00005/08k8ls3ryjbf_,l,n,h,x,.urlset/master.m3u8?t=KkURVsbNp0DqBsi1Tf-sqtiudHl9ttPou-sL6OwyT84&s=1780069333&e=43200&v=204355934&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e23": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 23",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/scqbx6bo4d4n_,l,n,h,x,.urlset/master.m3u8?t=RpVQarAsocXjXyawxK4E1Nck46UKo7gYHW1xuRc6Rxc&s=1780057230&e=43200&v=204223516&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/scqbx6bo4d4n_,l,n,h,x,.urlset/master.m3u8?t=NunuF2tC3ZSY_ggeZfvs5_y7KG5VpLNux8Qb3SH9RtE&s=1780069344&e=43200&v=204356039&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e24": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 24",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/j1k0bn8ok9n2_,l,n,h,x,.urlset/master.m3u8?t=HIxl_WcKXZgzedgZKUPtJiyXfY3o0a945yLJIoc1kGM&s=1780057244&e=43200&v=204223647&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/j1k0bn8ok9n2_,l,n,h,x,.urlset/master.m3u8?t=eOkWZWn1nmFoS8ft6daPjP0ZiHEVORSN1ibtAuAZ3g8&s=1780069358&e=43200&v=204356166&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e25": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 25",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/iaztes8v4p6o_,l,n,h,x,.urlset/master.m3u8?t=OXChj6Y5DSss6n__L5iDxOfHOEcQhfdEgZwBaJGVcww&s=1780057257&e=43200&v=204223790&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/iaztes8v4p6o_,l,n,h,x,.urlset/master.m3u8?t=Sj5-Q3MevL-BHKQpdP8j3ACm-YMAJ8ZY6PvXT5M0xhg&s=1780069371&e=43200&v=204356307&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e26": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 26",
-    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/l7bcmly7gaz4_,l,n,h,x,.urlset/master.m3u8?t=QSyX8ETCgzWIwf6H6Qcu32_CwbAxQEx9qqZperKb0VQ&s=1780057271&e=43200&v=204223915&i=0.0&sp=0"
+    "url": "https://albrq-store1-tgb.cdnz.quest/hls2/04/00005/l7bcmly7gaz4_,l,n,h,x,.urlset/master.m3u8?t=ev3eYoVcf9BXeCPPuMrrt-PEwvFow3PC0bc3vkhVskg&s=1780069385&e=43200&v=204356456&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e27": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 27",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/yl9llx23zu1j_,l,n,h,x,.urlset/master.m3u8?t=yqAyl5vjb3NWSbxNQPxkwM8UG7q70SzXRoGcNLFmlSM&s=1780057284&e=43200&v=204224055&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/02/00005/yl9llx23zu1j_,l,n,h,x,.urlset/master.m3u8?t=l1u5qmwsZr9pVd6esBo1E6ZJ4hrtUybGgz6nNdcjQW0&s=1780069396&e=43200&v=204356575&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e28": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 28",
-    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/b81k3sgku0mb_,l,n,h,x,.urlset/master.m3u8?t=FxQ4WrKX7gpZ_fjCbGV2v0FJvur86LANFHA5XgwPCeM&s=1780057297&e=43200&v=204224187&i=0.0&sp=0"
+    "url": "https://albrq-cdn1-lcd.cdnz.online/hls2/01/00005/b81k3sgku0mb_,l,n,h,x,.urlset/master.m3u8?t=3j_1_Yvk-jLFr73odc7-Jar6yu9P-mTL94OyvNQORIA&s=1780069410&e=43200&v=204356709&i=0.0&sp=0"
   },
   "tasacak-bu-deniz-2025-s01e29": {
     "title": "مسلسل هذا البحر سوف يفيض الحلقة 29",
-    "url": "https://hls18-brq-y4s.cdnz.online/hls2/01/00005/vkb14expt33r_,l,n,h,x,.urlset/master.m3u8?t=7HLJIgeiu0Avj8saTTLrspKXUeHB0BnspPm5UhxoU3A&s=1780057312&e=43200&v=204224313&srv=albrq-enc1-vcd&i=0.0&sp=0"
+    "url": "https://hls18-brq-y4s.cdnz.online/hls2/01/00005/vkb14expt33r_,l,n,h,x,.urlset/master.m3u8?t=rBaj-oWSY9dVUqPMXmNsMKhriiGKgoyjQF5-6WbLvv8&s=1780069427&e=43200&v=204356885&srv=albrq-enc1-vcd&i=0.0&sp=0"
   }
 }
