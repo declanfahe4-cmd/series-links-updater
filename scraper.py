@@ -63,7 +63,7 @@ async def main():
 
                 title = soup.find("title").text.strip() if soup.find("title") else episode_id
 
-                cdn_links = re.findall(r"https://cdnplus\.cyou/embed-[\w\d]+\.html", resp.text)
+                cdn_links = re.findall(r"https://cdnplus\.space/embed-[\w\d]+\.html", resp.text)
                 if not cdn_links:
                     print("   [-] لا يوجد مشغل")
                     continue
